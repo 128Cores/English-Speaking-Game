@@ -1,0 +1,10 @@
+{
+  "SentencesCorrect": 0,
+  "SentencesIncorrect": 0,
+  "TotalScore": 0,
+  "RoundsPlayed": 0,
+  "GameVersion": "3.0",
+  "LastPlayed": "0000-08-00 00:00:00",
+  "BestScore": 0,
+  "BestPercentage": 0.0
+}
