@@ -222,10 +222,11 @@ New sentences should be:
 - Appropriate for a broad audience
 - Free of duplicates
 
+## Credits
 
 Created by **MemoryLaine**.
 
-**Version 3.0.0**
+**Version 1.0.0**
 
 ## License
 
