@@ -222,6 +222,11 @@ New sentences should be:
 - Appropriate for a broad audience
 - Free of duplicates
 
+
+Created by **MemoryLaine**.
+
+**Version 3.0.0**
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
