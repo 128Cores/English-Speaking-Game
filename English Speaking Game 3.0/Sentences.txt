@@ -1,0 +1,5000 @@
+Hello.
+How are you?
+What's your name?
+Where are you from?
+Nice to meet you.
+I don't understand.
+Can you help me?
+Sorry I'm lost.
+How much is this?
+What time is it?
+Excuse me please.
+Yes please.
+No thank you.
+I'm hungry.
+I'm thirsty.
+How's the weather?
+I like it.
+I don't like it.
+Where's the bathroom?
+I need a doctor.
+I am very sick.
+I'm from Maha Sarakham.
+Can I have water?
+What's your job?
+How old are you?
+Where do you live?
+How do you say this word?
+What's this?
+Can you repeat?
+Excuse my English.
+Can you write it?
+Please wait a moment.
+I'm sorry.
+Can you speak slower?
+What's your phone number?
+Can I have the bill?
+It's delicious.
+It's too spicy.
+I love this place.
+Can I take a photo?
+How do I get there?
+What's your favorite food?
+I'm tired.
+I'm busy.
+Can you call a taxi?
+Is it far?
+Where's the nearest ATM?
+What's the Wi-Fi password?
+How much does it cost?
+I'm here on vacation.
+What's your hobby?
+It's beautiful.
+I'm excited.
+I'm scared.
+What's your email?
+Can you help me with this?
+Where can I buy this?
+What's the date today?
+Can you show me?
+I have a question.
+What's the problem?
+Can you drive?
+I'm here for work.
+What's the plan?
+Can I borrow this?
+It's very hot.
+I need a ticket.
+How's your day?
+I need more time.
+What's happening?
+Can I try it on?
+I'm lost in the city.
+What's your favorite color?
+Can you speak louder?
+I'm not feeling well.
+What's your address?
+I'm learning English.
+It's too cold.
+What's your nationality?
+Can you open the window?
+I'm on a vacation.
+What's the time difference?
+I'm happy.
+I'm sad.
+Can you recommend a restaurant?
+I need a hotel.
+What's the nearest subway?
+I'm looking for a hotel.
+Can you help me with my bags?
+It's so noisy.
+I want to go home.
+Can you pass me the salt?
+I don't have money.
+What's your favorite movie?
+Can you show me the menu?
+I need a new shirt.
+I'm in a hurry.
+Can I have a receipt?
+How was your day?
+I'm feeling better.
+Good morning.
+My name is Ming.
+Could you say that again?
+Where is the nearest pharmacy?
+Where can I catch the bus?
+Do you have a table for one?
+I'm just looking thank you.
+I have a reservation.
+I need medical help.
+What day is it today?
+Where is my classroom?
+I just woke up.
+My phone battery is low.
+Where can I exchange money?
+I'm feeling great today.
+Good afternoon.
+I was born in Thailand.
+Please repeat that slowly.
+How can I get to the pharmacy?
+Which bus should I take?
+Do you have a table for two?
+Do you have this in another size?
+The reservation is under Sangtopo.
+Please call an ambulance.
+What month is it?
+Which room is the class in?
+I need to get dressed.
+My phone is almost dead.
+What is today's exchange rate?
+I'm in a good mood.
+Good evening.
+I grew up in Maha Sarakham.
+I didn't hear you.
+Is the pharmacy within walking distance?
+Does this bus go downtown?
+We have a reservation.
+Do you have this in another color?
+I'd like to check in.
+This is an emergency.
+What year is it?
+What time does class begin?
+I'm getting ready for school.
+Can I charge my phone here?
+I'd like to exchange some dollars.
+I'm feeling nervous.
+Good night.
+I live with my family.
+I didn't catch that.
+Which way is the pharmacy?
+Does this bus stop at the airport?
+The reservation is under my name.
+Do you have a smaller size?
+I'd like to check out.
+Where is the emergency room?
+Is today Monday?
+What time does class end?
+I need to take a shower.
+Do you have a phone charger?
+Do you charge a fee?
+I'm a little worried.
+Welcome to our home.
+I have one brother.
+I don't know that word.
+Could you point me toward the pharmacy?
+How often does the bus come?
+Could we sit by the window?
+Do you have a larger size?
+Can I see your identification?
+I need to see a nurse.
+Is tomorrow a holiday?
+Who is the teacher?
+I'm brushing my teeth.
+Where is the power outlet?
+Can I withdraw money here?
+I'm feeling stressed.
+It's good to see you.
+I am an international student.
+What does this word mean?
+How far is the pharmacy from here?
+When is the next bus?
+Could we sit outside?
+Where is the fitting room?
+Here is my passport.
+I'd like to make a doctor's appointment.
+What time should we meet?
+What is today's lesson?
+I'm making breakfast.
+This charger doesn't fit.
+Can I deposit cash?
+I'm feeling calm now.
+It's been a long time.
+I study computer science.
+How do you pronounce this word?
+Where is the nearest train station?
+When is the last bus?
+How long is the wait?
+This is too small.
+What time is check-in?
+Do you have an appointment today?
+Let's meet at three o'clock.
+Which page are we on?
+I usually eat breakfast at seven.
+My phone won't turn on.
+I need to open a bank account.
+I'm surprised.
+How have you been?
+I enjoy programming.
+How do you spell that?
+How can I get to the train station?
+How much is the bus fare?
+May I see the drink menu?
+This is too large.
+What time is check-out?
+How long have you felt sick?
+I'm available in the morning.
+What is the homework?
+I need to leave soon.
+My screen is broken.
+I forgot my bank card.
+I'm confused.
+I'm doing well.
+I make games in my free time.
+Could you spell your name?
+Is the train station within walking distance?
+Can I pay on the bus?
+What do you recommend?
+This fits me well.
+Is breakfast included?
+I've felt sick since yesterday.
+I'm available in the afternoon.
+When is the homework due?
+I'm walking to school.
+My phone is frozen.
+My bank card is missing.
+I'm disappointed.
+I'm doing fine.
+I speak Thai and English.
+Can you explain it again?
+Which way is the train station?
+Do I need exact change?
+What is today's special?
+This is too expensive.
+Where is breakfast served?
+I started feeling sick this morning.
+I'm free after school.
+I finished my homework.
+I'm waiting for the bus.
+I forgot my passcode.
+The ATM kept my card.
+I'm proud of myself.
+I'm okay today.
+I'm practicing my English every day.
+Can you explain it more simply?
+Could you point me toward the train station?
+Where can I buy a bus pass?
+What is the most popular dish?
+Is there a cheaper option?
+What time does breakfast start?
+My symptoms are getting worse.
+I'm not free tonight.
+I forgot my homework.
+I just arrived.
+I can't unlock my phone.
+The ATM didn't give me cash.
+I'm embarrassed.
+I'm glad to meet you.
+I have lived here for three months.
+Could you give me an example?
+How far is the train station from here?
+Is this the right bus stop?
+Does this contain milk?
+Is this on sale?
+What time does breakfast end?
+The pain is very strong.
+Can we meet tomorrow?
+I need help with this assignment.
+I'm going to class.
+I don't have a signal.
+I entered the wrong PIN.
+I'm lonely.
+Thank you very much.
+This is my first time in America.
+What do you mean?
+Where is the nearest bus stop?
+Please tell me when we arrive.
+Does this contain nuts?
+What is the discount?
+What is my room number?
+The pain comes and goes.
+Can we meet next week?
+Can we work together?
+I'm taking a lunch break.
+The internet is very slow.
+Can you help me contact my bank?
+I'm bored.
+You're welcome.
+I moved here for school.
+Did I say that correctly?
+How can I get to the bus stop?
+I'd like to get off here.
+Does this contain shellfish?
+Is that the final price?
+Could I have the room key?
+It hurts when I move.
+Could we meet a little earlier?
+Can I join your group?
+I brought lunch from home.
+The Wi-Fi isn't working.
+How much money can I withdraw?
+I'm relaxed.
+That's very kind of you.
+I work during the week.
+Is my pronunciation correct?
+Is the bus stop within walking distance?
+Does this train go to the city center?
+Is this dish vegetarian?
+Can you lower the price?
+I lost my room key.
+I feel weak.
+Could we meet a little later?
+Who is in my group?
+I'm going back to my room.
+I can't connect to the Wi-Fi.
+Is there a withdrawal fee?
+I'm grateful.
+I appreciate your help.
+I don't work on weekends.
+Please correct my English.
+Which way is the bus stop?
+Which platform do I need?
+Is this dish vegan?
+I'll take it.
+My key card doesn't work.
+I feel dizzy.
+I'm running five minutes late.
+I have a question about the lesson.
+I need to do my laundry.
+Could you restart the router?
+Could you break this bill?
+I'm hopeful.
+Please come in.
+I am eighteen years old.
+How can I say this naturally?
+Could you point me toward the bus stop?
+When does the train leave?
+Is this dish gluten free?
+I don't need a bag.
+Where is the elevator?
+I feel nauseous.
+I'll be there on time.
+Could you explain this problem?
+Where is the washing machine?
+What is the network name?
+Do you have smaller bills?
+I'm not ready yet.
+Please have a seat.
+My birthday is in June.
+Is there another word for this?
+How far is the bus stop from here?
+When does the train arrive?
+I am allergic to peanuts.
+Could I have a shopping bag?
+Can someone help with my luggage?
+I have trouble sleeping.
+How long will it take?
+Can you check my answer?
+Is this washing machine available?
+The password isn't working.
+I only have a twenty-dollar bill.
+I'm ready now.
+Make yourself comfortable.
+My family lives in Thailand.
+What is the opposite of this word?
+Where is the nearest airport?
+Is the train running on time?
+I am allergic to seafood.
+Can I return this?
+Is there Wi-Fi in the room?
+I can't breathe well.
+How much time do we have?
+I think this answer is correct.
+How much detergent should I use?
+Can you share your hotspot?
+I don't have any cash.
+I'm not sure.
+See you later.
+I miss my family.
+Can you use it in a sentence?
+How can I get to the airport?
+How long is the train ride?
+I can't eat dairy products.
+What is your return policy?
+Is there a password for the Wi-Fi?
+I think I have a fever.
+We have plenty of time.
+I made a mistake.
+My clothes are still wet.
+I need to use the internet.
+I need to send money home.
+I'm certain about it.
+See you tomorrow.
+I have a small family.
+Could you write that down?
+Is the airport within walking distance?
+Do I need to change trains?
+I don't eat pork.
+Can I exchange this?
+Does the room have air conditioning?
+I need a thermometer.
+We don't have much time.
+May I borrow a pencil?
+I need to clean my room.
+Can I use this computer?
+How long will the transfer take?
+That makes me happy.
+See you next week.
+I have a big family.
+Can you type it on my phone?
+Which way is the airport?
+Where do I transfer?
+I don't eat beef.
+This item is damaged.
+Can I control the temperature?
+Do you have any pain medicine?
+The meeting starts at nine.
+Do you have an extra pen?
+Could you take out the trash?
+How do I turn this on?
+I need to mail this letter.
+That makes me uncomfortable.
+Have a nice day?
+I live in a dormitory.
+Please point to the right answer.
+Could you point me toward the airport?
+Is this seat reserved?
+Please make it less spicy.
+This item doesn't work.
+The room is too warm.
+I need something for a cough.
+The store opens at ten.
+I need a piece of paper.
+Where should I put the recycling?
+How do I turn this off?
+I need to send this package.
+I feel much better now.
+Have a safe trip?
+I share a room with another student.
+Can you translate this into English?
+How far is the airport from here?
+Can I sit by the window?
+Please don't add any sugar.
+I bought this yesterday.
+The room is too cold.
+I need a bandage.
+The store closes at eight.
+Can I use your calculator?
+The kitchen is dirty.
+Where is the power button?
+Where can I buy stamps?
+I need some time alone.
+Take care of yourself.
+I usually walk to class.
+What is this called in English?
+Where is the nearest hospital?
+Can I sit by the aisle?
+Could I have the sauce on the side?
+I lost the receipt.
+The air conditioner isn't working.
+I need some antiseptic.
+What time does it open?
+Where can I print this?
+Please wash your dishes.
+Can you help me install this app?
+How much is postage?
+I'd like to talk about it.
+Talk to you soon.
+I like meeting new people.
+I understand now.
+How can I get to the hospital?
+May I put my bag here?
+Could I have some extra rice?
+Do you accept cash?
+The shower isn't working.
+I take this medicine every day.
+What time does it close?
+The printer isn't working.
+I'll clean it later.
+I need to update the software.
+When will the package arrive?
+Can you listen to me?
+It was nice talking to you.
+I am a little shy.
+I still don't understand.
+Is the hospital within walking distance?
+Where is the luggage rack?
+Could I have another plate?
+Do you accept credit cards?
+There is no hot water.
+I am allergic to this medicine.
+Is it open today?
+Can I submit this online?
+The light isn't working.
+The app keeps closing.
+Can I track the package?
+Thanks for understanding.
+I hope to see you again.
+I'm easy to talk to.
+I understand a little.
+Which way is the hospital?
+I missed my train.
+Could I have a clean spoon?
+Can I use contactless payment?
+The toilet won't flush.
+I don't have any allergies.
+Is it open on Sundays?
+I can't open the assignment.
+The power is out.
+The website won't open.
+This package is fragile.
+Everything will be okay.
+Congratulations.
+I like learning new things.
+I'm not sure what you mean.
+Could you point me toward the hospital?
+My train was canceled.
+Could I have a fork and knife?
+My card was declined.
+The sink is leaking.
+I have health insurance.
+Is it going to rain?
+The website isn't loading.
+The door is locked.
+I can't sign in.
+Please send it by express mail.
+I hope things get better.
+Happy birthday.
+I want to improve my pronunciation.
+Let me try again.
+How far is the hospital from here?
+My train is delayed.
+Could I have some napkins?
+Can I pay another way?
+The room is not clean.
+Here is my insurance card.
+It looks like rain.
+I forgot my school password.
+I forgot my key.
+I forgot my username.
+I need to fill out a customs form.
+I'm looking forward to tomorrow.
+Good luck today.
+What are you studying?
+Please give me a moment to think.
+Where is the nearest health clinic?
+Can I change my ticket?
+Could we have more water?
+Where is the checkout?
+I need clean towels.
+Do I need a prescription?
+It's raining heavily.
+When is the test?
+Could you open the door?
+I forgot my password.
+Can you help me complete this form?
+I had a wonderful time.
+Well done.
+Which school do you attend?
+I'm looking for the right word.
+How can I get to the health clinic?
+Can I get a refund?
+My order hasn't arrived yet.
+Which line should I join?
+I need another blanket.
+How often should I take this?
+The rain has stopped.
+What will be on the test?
+Please close the door.
+Can I reset my password?
+Where should I sign?
+I didn't enjoy it very much.
+That sounds great.
+What year are you in?
+I forgot the English word.
+Is the health clinic within walking distance?
+I'd like a one-way ticket.
+This isn't what I ordered.
+Could you scan this again?
+Could I have another pillow?
+Should I take this with food?
+It's starting to snow.
+I need to study tonight.
+Please turn on the light.
+I didn't receive the code.
+Do you need my identification?
+That was really fun.
+That's a good idea.
+When is your birthday?
+My English is still improving.
+Which way is the health clinic?
+I'd like a round-trip ticket.
+The food is cold.
+I think the price is wrong.
+Could you clean my room?
+Are there any side effects?
+It's windy outside.
+Can we review together?
+Please turn off the light.
+Please send the code again.
+Here is my driver's license.
+That was a little scary.
+I agree with you.
+Do you have any brothers or sisters?
+I need more speaking practice.
+Could you point me toward the health clinic?
+I need a ticket for tomorrow.
+The food is too salty.
+Can you check the price?
+Please don't clean my room today.
+Can I drink water with this medicine?
+It's cloudy today.
+I passed the test.
+Please turn on the fan.
+My account is locked.
+I need a photocopy of my passport.
+That was interesting.
+I don't agree.
+Who do you live with?
+I can read English better than I speak it.
+How far is the health clinic from here?
+What is the cheapest ticket?
+Everything tastes wonderful.
+Do you have anything similar?
+The room is too noisy.
+When will I feel better?
+It's sunny today.
+I need to improve my grade.
+Please turn down the heat.
+Can you email the file to me?
+Where can I get a passport photo?
+That was surprising.
+Maybe you're right.
+How long have you lived here?
+Please don't speak too quickly.
+Where is the nearest police station?
+What is the fastest route?
+I'm finished with my meal.
+When will this be back in stock?
+Could I change rooms?
+Do I need to rest?
+The sky is clear.
+I'm absent today.
+Could you close the window?
+Can you send me the link?
+I lost my passport.
+I want to try something new.
+I think so too.
+Why did you move here?
+Could you speak more clearly?
+How can I get to the police station?
+When is the next flight?
+Could you pack this to go?
+Can I order it online?
+Do you have a quieter room?
+When can I return to school?
+The weather is perfect.
+I will be late for class.
+It's too dark in here.
+Could you scan this document?
+I need to contact my embassy.
+I'd like to visit the museum.
+I don't think so.
+What languages do you speak?
+Could you say it one word at a time?
+Is the police station within walking distance?
+What time does boarding begin?
+Can we split the bill?
+Do you offer delivery?
+Do you have a room with a view?
+Please speak slowly to me.
+The weather is getting colder.
+May I leave early?
+It's too bright in here.
+Could you print this page?
+I need to report a lost wallet.
+I'd like to go to the beach.
+Of course you can.
+Which language do you use at home?
+Where should I put the stress?
+Which way is the police station?
+Which gate should I go to?
+Can I pay by card?
+How long does delivery take?
+Can I stay one more night?
+Could you write down the instructions?
+The weather is getting warmer.
+I have a doctor's appointment.
+I'm going grocery shopping.
+The printer is out of paper.
+Someone stole my bag.
+I'd like to see a movie.
+That's all right.
+What do you do in your free time?
+Which syllable is stressed?
+Could you point me toward the police station?
+Where can I check in?
+Is service included?
+Where can I find a T-shirt?
+I'd like to extend my stay.
+I need to contact my family.
+What is the temperature?
+Where is the school office?
+We need more milk.
+The printer is out of ink.
+Please call the police.
+Would you like to watch a movie?
+No problem at all.
+What are you interested in?
+Does this sentence sound natural?
+How far is the police station from here?
+Can I check in online?
+Please keep the change.
+How much is this T-shirt?
+Can I leave my luggage here?
+I lost my medication.
+It's thirty degrees outside.
+I need to speak with my counselor.
+We are out of bread.
+Can I make a copy?
+I need to make a report.
+Would you like to play a game?
+Don't worry about it?
+What are your plans for the future?
+Is this word formal or informal?
+Where is the nearest bank?
+I only have carry-on luggage.
+I'd like to order the chicken soup.
+Do you have a cheaper T-shirt?
+Is there a safe in the room?
+The pharmacy is closed.
+Do I need a jacket?
+Can I make an appointment?
+Could you make a shopping list?
+Where can I save this file?
+Can I speak to someone in English?
+Would you like to go for a walk?
+It doesn't matter.
+What do you want to study?
+When should I use this phrase?
+How can I get to the bank?
+I need to check this bag.
+Does the chicken soup contain dairy?
+I'd like to buy a T-shirt.
+Where can I do my laundry?
+I need a COVID test.
+Do I need an umbrella?
+What courses are available?
+What's for dinner?
+I deleted the file by mistake.
+I need legal assistance.
+Let's take some pictures.
+Please forgive me.
+What kind of work do you do?
+Can you check my grammar?
+Is the bank within walking distance?
+Is my bag too heavy?
+Is the chicken soup spicy?
+Where can I find a jacket?
+Do you have laundry service?
+I need a flu shot.
+The sun is very strong.
+I'd like to change my class.
+I'm cooking dinner tonight.
+The download is taking a long time.
+Where is the customer service desk?
+Let's listen to music.
+I'm sorry I'm late.
+Where is your hometown?
+Could you check my spelling?
+Which way is the bank?
+Where is passport control?
+I'd like to order the fried rice.
+How much is this jacket?
+Can you wake me at seven?
+My vision is blurry.
+It's humid today.
+This class is very difficult.
+The food is almost ready.
+The file is too large.
+I'd like to make a complaint.
+Let's get something to eat.
+Thank you for waiting.
+What is your hometown like?
+What is the past tense of this word?
+Could you point me toward the bank?
+Where is airport security?
+Does the fried rice contain dairy?
+Do you have a cheaper jacket?
+Could you arrange a taxi?
+I can't hear very well.
+The road is icy.
+This class is interesting.
+Could you set the table?
+Can you open this attachment?
+I'd like to speak to a manager.
+Let's meet after class.
+Could you wait for me?
+Do you enjoy living here?
+Is this noun countable?
+How far is the bank from here?
+How long is the security line?
+Is the fried rice spicy?
+I'd like to buy a jacket.
+Is there a shuttle to the airport?
+I twisted my ankle.
+There is a thunderstorm coming.
+I enjoy working on projects.
+Dinner is ready.
+The sound isn't working.
+Can you solve this problem today?
+What would you like to do?
+Let me introduce myself.
+Do you miss your hometown?
+What is the plural of this word?
+Where is the nearest post office?
+My flight has been delayed.
+I'd like to order the green salad.
+Where can I find a pair of jeans?
+Where is the hotel restaurant?
+I cut my finger.
+The weather forecast was wrong.
+I learn better by practicing.
+Please help yourself.
+Could you turn up the volume?
+When will this be fixed?
+Where should we go?
+This is my friend.
+Have you ever visited Thailand?
+Should I use a or an?
+How can I get to the post office?
+My flight has been canceled.
+Does the green salad contain dairy?
+How much is this pair of jeans?
+Is there a gym in the hotel?
+I burned my hand.
+What's the forecast for tomorrow?
+I need a quiet place to study.
+Would you like some more?
+Could you turn down the volume?
+Could you give me a reference number?
+Which movie should we watch?
+I'd like you to meet my friend.
+What countries have you visited?
+How is this word different from that word?
+Is the post office within walking distance?
+I missed my connection.
+Is the green salad spicy?
+Do you have a cheaper pair of jeans?
+Is there a swimming pool?
+I fell down the stairs.
+Will it be warm this weekend?
+Is the library open?
+I'm full now.
+Can you hear me?
+Can you write down your name?
+What kind of music is this?
+How is your family?
+Where would you like to travel?
+Can you show me how to answer?
+Which way is the post office?
+Where can I rebook my flight?
+I'd like to order the grilled chicken.
+I'd like to buy a pair of jeans.
+What time does the front desk close?
+I was in an accident.
+What season is it?
+Can I reserve a study room?
+I'll wash the dishes.
+I can't hear you.
+What are your business hours?
+Who is your favorite singer?
+Please say hello to your family.
+What is your dream job?
+May I use a dictionary?
+Could you point me toward the post office?
+My luggage is missing.
+Does the grilled chicken contain dairy?
+Where can I find a pair of shoes?
+Can I speak to the manager?
+Someone has fainted.
+Spring is my favorite season.
+Please turn down the music.
+I'm going for a walk.
+Your microphone is muted.
+Are you open tomorrow?
+Have you seen this movie?
+Are you free today?
+What are you good at?
+Can I use a translator?
+How far is the post office from here?
+My suitcase was damaged.
+Is the grilled chicken spicy?
+How much is this pair of shoes?
+There is a problem with my room.
+Are you feeling better?
+Summer is very hot here.
+I have a presentation today.
+I'm going to the gym.
+Please turn on your camera.
+Do I need an appointment?
+Have you read this book?
+Would you like to join us?
+What would you like to learn?
+Please write the instructions.
+Where is the nearest supermarket?
+This is my baggage receipt.
+I'd like to order the vegetable curry.
+Do you have a cheaper pair of shoes?
+I think I left something in my room.
+Please sit down and rest.
+Autumn is beautiful.
+I'm nervous about my presentation.
+I need some fresh air.
+The video is frozen.
+How long will I have to wait?
+Do you play video games?
+Would you like some coffee?
+Are you a student?
+Could you read this for me?
+How can I get to the supermarket?
+Can you take me to this address?
+Does the vegetable curry contain dairy?
+I'd like to buy a pair of shoes.
+Have you found my phone?
+Take a deep breath.
+Winter is too cold for me.
+Can you look at my slides?
+I'm taking a short break.
+The call was disconnected.
+Which number should I call?
+Do you enjoy cooking?
+Would you like to sit down?
+Are you married?
+What does this sign say?
+Is the supermarket within walking distance?
+Please use the meter.
+Is the vegetable curry spicy?
+Where can I find a backpack?
+Can you recommend a nearby cafe?
+Drink plenty of water.
+It gets dark early.
+I need to practice my speech.
+I'm going to call my family.
+I'll call you back.
+Is there a service charge?
+Do you like taking photos?
+Can we talk for a minute?
+Do you have any pets?
+What does this message mean?
+Which way is the supermarket?
+How long will the taxi ride take?
+I'd like to order the beef noodle soup.
+How much is this backpack?
+Can you give me a city map?
+You should see a doctor.
+The days are getting longer.
+My computer stopped working.
+I'm watching a movie.
+Can we have a video call?
+Could you explain this fee?
+Do you like traveling?
+May I ask your name?
+What's your pet's name?
+Can you help me fill out this form?
+Could you point me toward the supermarket?
+Could you drop me off here?
+Does the beef noodle soup contain dairy?
+Do you have a cheaper backpack?
+How much is the room per night?
+My head hurts.
+The sun rises early.
+I forgot to save my work.
+I'm reading a book.
+What time should I call you?
+I think I was charged twice.
+Do you like hiking?
+What should I call you?
+What kind of music do you like?
+Where do I write my name?
+How far is the supermarket from here?
+Please stop at the next corner.
+Is the beef noodle soup spicy?
+I'd like to buy a backpack.
+Are taxes included in the price?
+I injured my head.
+The sun sets around seven.
+Can you send me the file?
+I'm listening to music.
+Please leave me a message.
+This amount is incorrect.
+Do you like swimming?
+Where can I find a portable charger?
+I'd like to order chicken noodle soup.
+Where is the nearest community center?
+How much is a ticket to Boston?
+I need to wake up early today.
+I need to finish this assignment.
+I have a headache.
+Could someone check the air conditioner?
+Can you help me connect to the Wi-Fi?
+Do you enjoy playing basketball?
+The kitchen sink needs to be cleaned.
+The forecast says there will be heavy rain.
+I need help with a passport renewal.
+Would you like to join me for dinner?
+Does this blue shirt fit me?
+Have you ever been to Thailand?
+I need help with a lost passport.
+Do you sell a portable charger?
+Does chicken noodle soup contain peanuts?
+How do I get to the community center?
+When is the next train to Boston?
+Do you want to wake up early with me?
+Could you show me how to finish this assignment?
+I've had a headache since yesterday.
+How do I use the air conditioner?
+How do I connect to the Wi-Fi?
+How often do you spend time playing basketball?
+Can you help me clean the kitchen sink?
+Should we expect heavy rain tomorrow?
+Where do I submit a passport renewal?
+What time should we meet for dinner?
+Can I try on this blue shirt?
+I'd like to visit Thailand.
+Who should I contact about a lost passport?
+I'm looking for a portable charger.
+Is chicken noodle soup spicy?
+What time does the community center open?
+Does this bus go to Boston?
+When should I wake up early?
+When do I need to finish this assignment?
+What should I do about a headache?
+Where can I find the air conditioner?
+I need to connect to the Wi-Fi.
+I'm interested in playing basketball.
+Do you know how to use the kitchen sink?
+How long will heavy rain continue?
+How long does a passport renewal take?
+Where should we meet for dinner?
+Do you have this blue shirt in a larger size?
+What is the best time to visit Thailand?
+Where can I report a lost passport?
+Could you show me a portable charger?
+Can I get chicken noodle soup without onions?
+What time does the community center close?
+How long does it take to get to Boston?
+Can you help me wake up early?
+I haven't had time to finish this assignment.
+Can I get medicine for a headache?
+I need help with the air conditioner.
+Why can't I connect to the Wi-Fi?
+I'm getting better at playing basketball.
+The kitchen sink stopped working.
+I'm not used to heavy rain.
+Is there a fee for a passport renewal?
+I'm looking forward to dinner.
+Is this blue shirt on sale?
+How long should I stay in Thailand?
+Can you help me explain a lost passport?
+Is there a discount on a portable charger?
+Could you pack chicken noodle soup to go?
+Is the community center open now?
+Is there a direct route to Boston?
+I forgot to wake up early.
+Do we need to finish this assignment today?
+Is a headache a common symptom?
+Could you show me how to use the air conditioner?
+Could you show me how to connect to the Wi-Fi?
+Would you like to try playing basketball?
+I need to fix the kitchen sink.
+Driving is difficult because of heavy rain.
+Which documents are required for a passport renewal?
+Can we reschedule dinner?
+Can I return this blue shirt?
+What food should I try in Thailand?
+What should I do about a lost passport?
+Can I order a portable charger online?
+How much does chicken noodle soup cost?
+Can I walk to the community center?
+I'd like to travel to Boston.
+I'm planning to wake up early tomorrow.
+Let's finish this assignment together.
+How long will a headache last?
+The air conditioner is making a strange noise.
+Is it safe to connect to the Wi-Fi?
+What do you like about playing basketball?
+Could you check the kitchen sink?
+Our plans may change because of heavy rain.
+Can I complete a passport renewal online?
+Thank you for inviting me to dinner.
+Where was this blue shirt made?
+Is public transportation easy to use in Thailand?
+Is there a form for a lost passport?
+Do you have a portable charger in stock?
+Is chicken noodle soup available today?
+Is there parking near the community center?
+Which platform is for the train to Boston?
+I have enough time to wake up early.
+I'm almost ready to finish this assignment.
+Should I see a doctor for a headache?
+Please check the air conditioner in my room.
+I forgot how to connect to the Wi-Fi.
+I started playing basketball last year.
+Please don't touch the kitchen sink.
+Please be careful during heavy rain.
+Who should I contact about a passport renewal?
+How long will dinner last?
+How should I wash this blue shirt?
+What is the weather like in Thailand?
+How long will it take to resolve a lost passport?
+I need to buy a portable charger.
+Can you recommend a drink with chicken noodle soup?
+I need directions to the community center.
+Can I buy a return ticket to Boston?
+Is it okay if I wake up early now?
+Why do I have to finish this assignment?
+My main problem is a headache.
+The television isn't working.
+It takes too long to connect to the Wi-Fi.
+My favorite weekend activity is playing basketball.
+Is the kitchen sink safe to use?
+Do I need special clothing for heavy rain?
+I have a question about a passport renewal.
+Do I need to bring anything to dinner?
+I think this blue shirt looks good.
+Do I need a visa to visit Thailand?
+I need written confirmation of a lost passport.
+Where can I find a power bank?
+I'd like to order vegetable stir-fry.
+Where is the nearest grocery store?
+How much is a ticket to New York City?
+I need to make breakfast today.
+I need to study for the test.
+I have a mild fever.
+Could someone check the television?
+Can you help me reset my password?
+Do you enjoy reading mystery novels?
+The refrigerator needs to be cleaned.
+The forecast says there will be strong winds.
+I need help with a visa application.
+Would you like to join me for coffee?
+Does this pair of black pants fit me?
+Have you ever been to France?
+I need help with a stolen phone.
+Do you sell a power bank?
+Does vegetable stir-fry contain peanuts?
+How do I get to the grocery store?
+When is the next train to New York City?
+Do you want to make breakfast with me?
+Could you show me how to study for the test?
+I've had a mild fever since yesterday.
+How do I use the television?
+How do I reset my password?
+How often do you spend time reading mystery novels?
+Can you help me clean the refrigerator?
+Should we expect strong winds tomorrow?
+Where do I submit a visa application?
+What time should we meet for coffee?
+Can I try on this pair of black pants?
+I'd like to visit France.
+Who should I contact about a stolen phone?
+I'm looking for a power bank.
+Is vegetable stir-fry spicy?
+What time does the grocery store open?
+Does this bus go to New York City?
+When should I make breakfast?
+When do I need to study for the test?
+What should I do about a mild fever?
+Where can I find the television?
+I need to reset my password.
+I'm interested in reading mystery novels.
+Do you know how to use the refrigerator?
+How long will strong winds continue?
+How long does a visa application take?
+Where should we meet for coffee?
+Do you have this pair of black pants in a larger size?
+What is the best time to visit France?
+Where can I report a stolen phone?
+Could you show me a power bank?
+Can I get vegetable stir-fry without onions?
+What time does the grocery store close?
+How long does it take to get to New York City?
+Can you help me make breakfast?
+I haven't had time to study for the test.
+Can I get medicine for a mild fever?
+I need help with the television.
+Why can't I reset my password?
+I'm getting better at reading mystery novels.
+The refrigerator stopped working.
+I'm not used to strong winds.
+Is there a fee for a visa application?
+I'm looking forward to coffee.
+Is this pair of black pants on sale?
+How long should I stay in France?
+Can you help me explain a stolen phone?
+Is there a discount on a power bank?
+Could you pack vegetable stir-fry to go?
+Is the grocery store open now?
+Is there a direct route to New York City?
+I forgot to make breakfast.
+Do we need to study for the test today?
+Is a mild fever a common symptom?
+Could you show me how to use the television?
+Could you show me how to reset my password?
+Would you like to try reading mystery novels?
+I need to fix the refrigerator.
+Driving is difficult because of strong winds.
+Which documents are required for a visa application?
+Can we reschedule coffee?
+Can I return this pair of black pants?
+What food should I try in France?
+What should I do about a stolen phone?
+Can I order a power bank online?
+How much does vegetable stir-fry cost?
+Can I walk to the grocery store?
+I'd like to travel to New York City.
+I'm planning to make breakfast tomorrow.
+Let's study for the test together.
+How long will a mild fever last?
+The television is making a strange noise.
+Is it safe to reset my password?
+What do you like about reading mystery novels?
+Could you check the refrigerator?
+Our plans may change because of strong winds.
+Can I complete a visa application online?
+Thank you for inviting me to coffee.
+Where was this pair of black pants made?
+Is public transportation easy to use in France?
+Is there a form for a stolen phone?
+Do you have a power bank in stock?
+Is vegetable stir-fry available today?
+Is there parking near the grocery store?
+Which platform is for the train to New York City?
+I have enough time to make breakfast.
+I'm almost ready to study for the test.
+Should I see a doctor for a mild fever?
+Please check the television in my room.
+I forgot how to reset my password.
+I started reading mystery novels last year.
+Please don't touch the refrigerator.
+Please be careful during strong winds.
+Who should I contact about a visa application?
+How long will coffee last?
+How should I wash this pair of black pants?
+What is the weather like in France?
+How long will it take to resolve a stolen phone?
+I need to buy a power bank.
+Can you recommend a drink with vegetable stir-fry?
+I need directions to the grocery store.
+Can I buy a return ticket to New York City?
+Is it okay if I make breakfast now?
+Why do I have to study for the test?
+My main problem is a mild fever.
+Could someone check the shower?
+It takes too long to reset my password.
+My favorite weekend activity is reading mystery novels.
+Is the refrigerator safe to use?
+Do I need special clothing for strong winds?
+I have a question about a visa application.
+Do I need to bring anything to coffee?
+I think this pair of black pants looks good.
+Do I need a visa to visit France?
+I need written confirmation of a stolen phone.
+Where can I find a rain jacket?
+I'd like to order grilled salmon.
+Where is the nearest farmers market?
+How much is a ticket to Chicago?
+I need to pack my lunch today.
+I need to prepare my presentation.
+I have a dry cough.
+How do I use the shower?
+Can you help me update this app?
+Do you enjoy cooking Thai food?
+The stove needs to be cleaned.
+The forecast says there will be thick fog.
+I need help with a bank transfer.
+Would you like to join me for a movie?
+Does this winter coat fit me?
+Have you ever been to Texas?
+I need help with a missing wallet.
+Do you sell a rain jacket?
+Does grilled salmon contain peanuts?
+How do I get to the farmers market?
+When is the next train to Chicago?
+Do you want to pack my lunch with me?
+Could you show me how to prepare my presentation?
+I've had a dry cough since yesterday.
+Where can I find the shower?
+How do I update this app?
+How often do you spend time cooking Thai food?
+Can you help me clean the stove?
+Should we expect thick fog tomorrow?
+Where do I submit a bank transfer?
+What time should we meet for a movie?
+Can I try on this winter coat?
+I'd like to visit Texas.
+Who should I contact about a missing wallet?
+I'm looking for a rain jacket.
+Is grilled salmon spicy?
+What time does the farmers market open?
+Does this bus go to Chicago?
+When should I pack my lunch?
+When do I need to prepare my presentation?
+What should I do about a dry cough?
+I need help with the shower.
+I need to update this app.
+I'm interested in cooking Thai food.
+Do you know how to use the stove?
+How long will thick fog continue?
+How long does a bank transfer take?
+Where should we meet for a movie?
+Do you have this winter coat in a larger size?
+What is the best time to visit Texas?
+Where can I report a missing wallet?
+Could you show me a rain jacket?
+Can I get grilled salmon without onions?
+What time does the farmers market close?
+How long does it take to get to Chicago?
+Can you help me pack my lunch?
+I haven't had time to prepare my presentation.
+Can I get medicine for a dry cough?
+Could you show me how to use the shower?
+Why can't I update this app?
+I'm getting better at cooking Thai food.
+The stove stopped working.
+I'm not used to thick fog.
+Is there a fee for a bank transfer?
+I'm looking forward to a movie.
+Is this winter coat on sale?
+How long should I stay in Texas?
+Can you help me explain a missing wallet?
+Is there a discount on a rain jacket?
+Could you pack grilled salmon to go?
+Is the farmers market open now?
+Is there a direct route to Chicago?
+I forgot to pack my lunch.
+Do we need to prepare my presentation today?
+Is a dry cough a common symptom?
+The shower is making a strange noise.
+Could you show me how to update this app?
+Would you like to try cooking Thai food?
+I need to fix the stove.
+Driving is difficult because of thick fog.
+Which documents are required for a bank transfer?
+Can we reschedule a movie?
+Can I return this winter coat?
+What food should I try in Texas?
+What should I do about a missing wallet?
+Can I order a rain jacket online?
+How much does grilled salmon cost?
+Can I walk to the farmers market?
+I'd like to travel to Chicago.
+I'm planning to pack my lunch tomorrow.
+Let's prepare my presentation together.
+How long will a dry cough last?
+Please check the shower in my room.
+Is it safe to update this app?
+What do you like about cooking Thai food?
+Could you check the stove?
+Our plans may change because of thick fog.
+Can I complete a bank transfer online?
+Thank you for inviting me to a movie.
+Where was this winter coat made?
+Is public transportation easy to use in Texas?
+Is there a form for a missing wallet?
+Do you have a rain jacket in stock?
+Is grilled salmon available today?
+Is there parking near the farmers market?
+Which platform is for the train to Chicago?
+I have enough time to pack my lunch.
+I'm almost ready to prepare my presentation.
+Should I see a doctor for a dry cough?
+The faucet isn't working.
+I forgot how to update this app.
+I started cooking Thai food last year.
+Please don't touch the stove.
+Please be careful during thick fog.
+Who should I contact about a bank transfer?
+How long will a movie last?
+How should I wash this winter coat?
+What is the weather like in Texas?
+How long will it take to resolve a missing wallet?
+I need to buy a rain jacket.
+Can you recommend a drink with grilled salmon?
+I need directions to the farmers market.
+Can I buy a return ticket to Chicago?
+Is it okay if I pack my lunch now?
+Why do I have to prepare my presentation?
+My main problem is a dry cough.
+Could someone check the faucet?
+It takes too long to update this app.
+My favorite weekend activity is cooking Thai food.
+Is the stove safe to use?
+Do I need special clothing for thick fog?
+I have a question about a bank transfer.
+Do I need to bring anything to a movie?
+I think this winter coat looks good.
+Do I need a visa to visit Texas?
+I need written confirmation of a missing wallet.
+Where can I find a winter coat?
+I'd like to order roasted vegetables.
+Where is the nearest urgent care center?
+How much is a ticket to Austin?
+I need to catch the morning bus today.
+I need to submit my homework.
+I have a sore throat.
+How do I use the faucet?
+Can you help me download the file?
+Do you enjoy taking photos?
+The microwave needs to be cleaned.
+The forecast says there will be a thunderstorm.
+I need help with a cash withdrawal.
+Would you like to join me for a walk?
+Does this pair of running shoes fit me?
+Have you ever been to New Hampshire?
+I need help with a damaged suitcase.
+Do you sell a winter coat?
+Does roasted vegetables contain peanuts?
+How do I get to the urgent care center?
+When is the next train to Austin?
+Do you want to catch the morning bus with me?
+Could you show me how to submit my homework?
+I've had a sore throat since yesterday.
+Where can I find the faucet?
+How do I download the file?
+How often do you spend time taking photos?
+Can you help me clean the microwave?
+Should we expect a thunderstorm tomorrow?
+Where do I submit a cash withdrawal?
+What time should we meet for a walk?
+Can I try on this pair of running shoes?
+I'd like to visit New Hampshire.
+Who should I contact about a damaged suitcase?
+I'm looking for a winter coat.
+Is roasted vegetables spicy?
+What time does the urgent care center open?
+Does this bus go to Austin?
+When should I catch the morning bus?
+When do I need to submit my homework?
+What should I do about a sore throat?
+I need help with the faucet.
+I need to download the file.
+I'm interested in taking photos.
+Do you know how to use the microwave?
+How long will a thunderstorm continue?
+How long does a cash withdrawal take?
+Where should we meet for a walk?
+Do you have this pair of running shoes in a larger size?
+What is the best time to visit New Hampshire?
+Where can I report a damaged suitcase?
+Could you show me a winter coat?
+Can I get roasted vegetables without onions?
+What time does the urgent care center close?
+How long does it take to get to Austin?
+Can you help me catch the morning bus?
+I haven't had time to submit my homework.
+Can I get medicine for a sore throat?
+Could you show me how to use the faucet?
+Why can't I download the file?
+I'm getting better at taking photos.
+The microwave stopped working.
+I'm not used to a thunderstorm.
+Is there a fee for a cash withdrawal?
+I'm looking forward to a walk.
+Is this pair of running shoes on sale?
+How long should I stay in New Hampshire?
+Can you help me explain a damaged suitcase?
+Is there a discount on a winter coat?
+Could you pack roasted vegetables to go?
+Is the urgent care center open now?
+Is there a direct route to Austin?
+I forgot to catch the morning bus.
+Do we need to submit my homework today?
+Is a sore throat a common symptom?
+The faucet is making a strange noise.
+Could you show me how to download the file?
+Would you like to try taking photos?
+I need to fix the microwave.
+Driving is difficult because of a thunderstorm.
+Which documents are required for a cash withdrawal?
+Can we reschedule a walk?
+Can I return this pair of running shoes?
+What food should I try in New Hampshire?
+What should I do about a damaged suitcase?
+Can I order a winter coat online?
+How much does roasted vegetables cost?
+Can I walk to the urgent care center?
+I'd like to travel to Austin.
+I'm planning to catch the morning bus tomorrow.
+Let's submit my homework together.
+How long will a sore throat last?
+Please check the faucet in my room.
+Is it safe to download the file?
+What do you like about taking photos?
+Could you check the microwave?
+Our plans may change because of a thunderstorm.
+Can I complete a cash withdrawal online?
+Thank you for inviting me to a walk.
+Where was this pair of running shoes made?
+Is public transportation easy to use in New Hampshire?
+Is there a form for a damaged suitcase?
+Do you have a winter coat in stock?
+Is roasted vegetables available today?
+Is there parking near the urgent care center?
+Which platform is for the train to Austin?
+I have enough time to catch the morning bus.
+I'm almost ready to submit my homework.
+Should I see a doctor for a sore throat?
+The toilet isn't working.
+I forgot how to download the file.
+I started taking photos last year.
+Please don't touch the microwave.
+Please be careful during a thunderstorm.
+Who should I contact about a cash withdrawal?
+How long will a walk last?
+How should I wash this pair of running shoes?
+What is the weather like in New Hampshire?
+How long will it take to resolve a damaged suitcase?
+I need to buy a winter coat.
+Can you recommend a drink with roasted vegetables?
+I need directions to the urgent care center.
+Can I buy a return ticket to Austin?
+Is it okay if I catch the morning bus now?
+Why do I have to submit my homework?
+My main problem is a sore throat.
+Could someone check the toilet?
+It takes too long to download the file.
+My favorite weekend activity is taking photos.
+Is the microwave safe to use?
+Do I need special clothing for a thunderstorm?
+I have a question about a cash withdrawal.
+Do I need to bring anything to a walk?
+I think this pair of running shoes looks good.
+Do I need a visa to visit New Hampshire?
+I need written confirmation of a damaged suitcase.
+Where can I find a pair of running shoes?
+I'd like to order mushroom pasta.
+Where is the nearest dental clinic?
+How much is a ticket to Houston?
+I need to arrive on time today.
+I need to print this document.
+I have a stomachache.
+How do I use the toilet?
+Can you help me upload a photo?
+Do you enjoy hiking in the mountains?
+The dishwasher needs to be cleaned.
+The forecast says there will be light snow.
+I need help with a package delivery.
+Would you like to join me for a study session?
+Does this gray sweater fit me?
+Have you ever been to Japan?
+I need help with a canceled flight.
+Do you sell a pair of running shoes?
+Does mushroom pasta contain peanuts?
+How do I get to the dental clinic?
+When is the next train to Houston?
+Do you want to arrive on time with me?
+Could you show me how to print this document?
+I've had a stomachache since yesterday.
+Where can I find the toilet?
+How do I upload a photo?
+How often do you spend time hiking in the mountains?
+Can you help me clean the dishwasher?
+Should we expect light snow tomorrow?
+Where do I submit a package delivery?
+What time should we meet for a study session?
+Can I try on this gray sweater?
+I'd like to visit Japan.
+Who should I contact about a canceled flight?
+I'm looking for a pair of running shoes.
+Is mushroom pasta spicy?
+What time does the dental clinic open?
+Does this bus go to Houston?
+When should I arrive on time?
+When do I need to print this document?
+What should I do about a stomachache?
+I need help with the toilet.
+I need to upload a photo.
+I'm interested in hiking in the mountains.
+Do you know how to use the dishwasher?
+How long will light snow continue?
+How long does a package delivery take?
+Where should we meet for a study session?
+Do you have this gray sweater in a larger size?
+What is the best time to visit Japan?
+Where can I report a canceled flight?
+Could you show me a pair of running shoes?
+Can I get mushroom pasta without onions?
+What time does the dental clinic close?
+How long does it take to get to Houston?
+Can you help me arrive on time?
+I haven't had time to print this document.
+Can I get medicine for a stomachache?
+Could you show me how to use the toilet?
+Why can't I upload a photo?
+I'm getting better at hiking in the mountains.
+The dishwasher stopped working.
+I'm not used to light snow.
+Is there a fee for a package delivery?
+I'm looking forward to a study session.
+Is this gray sweater on sale?
+How long should I stay in Japan?
+Can you help me explain a canceled flight?
+Is there a discount on a pair of running shoes?
+Could you pack mushroom pasta to go?
+Is the dental clinic open now?
+Is there a direct route to Houston?
+I forgot to arrive on time.
+Do we need to print this document today?
+Is a stomachache a common symptom?
+The toilet is making a strange noise.
+Could you show me how to upload a photo?
+Would you like to try hiking in the mountains?
+I need to fix the dishwasher.
+Driving is difficult because of light snow.
+Which documents are required for a package delivery?
+Can we reschedule a study session?
+Can I return this gray sweater?
+What food should I try in Japan?
+What should I do about a canceled flight?
+Can I order a pair of running shoes online?
+How much does mushroom pasta cost?
+Can I walk to the dental clinic?
+I'd like to travel to Houston.
+I'm planning to arrive on time tomorrow.
+Let's print this document together.
+How long will a stomachache last?
+Please check the toilet in my room.
+Is it safe to upload a photo?
+What do you like about hiking in the mountains?
+Could you check the dishwasher?
+Our plans may change because of light snow.
+Can I complete a package delivery online?
+Thank you for inviting me to a study session.
+Where was this gray sweater made?
+Is public transportation easy to use in Japan?
+Is there a form for a canceled flight?
+Do you have a pair of running shoes in stock?
+Is mushroom pasta available today?
+Is there parking near the dental clinic?
+Which platform is for the train to Houston?
+I have enough time to arrive on time.
+I'm almost ready to print this document.
+Should I see a doctor for a stomachache?
+The room key isn't working.
+I forgot how to upload a photo.
+I started hiking in the mountains last year.
+Please don't touch the dishwasher.
+Please be careful during light snow.
+Who should I contact about a package delivery?
+How long will a study session last?
+How should I wash this gray sweater?
+What is the weather like in Japan?
+How long will it take to resolve a canceled flight?
+I need to buy a pair of running shoes.
+Can you recommend a drink with mushroom pasta?
+I need directions to the dental clinic.
+Can I buy a return ticket to Houston?
+Is it okay if I arrive on time now?
+Why do I have to print this document?
+My main problem is a stomachache.
+Could someone check the room key?
+It takes too long to upload a photo.
+My favorite weekend activity is hiking in the mountains.
+Is the dishwasher safe to use?
+Do I need special clothing for light snow?
+I have a question about a package delivery.
+Do I need to bring anything to a study session?
+I think this gray sweater looks good.
+Do I need a visa to visit Japan?
+I need written confirmation of a canceled flight.
+Where can I find a pair of sandals?
+I'd like to order chicken curry.
+Where is the nearest eye clinic?
+How much is a ticket to Dallas?
+I need to attend class today.
+I need to join the meeting.
+I have lower back pain.
+How do I use the room key?
+Can you help me print this document?
+Do you enjoy swimming?
+The washing machine needs to be cleaned.
+The forecast says there will be freezing rain.
+I need help with a mail forwarding request.
+Would you like to join me for a birthday party?
+Does this white T-shirt fit me?
+Have you ever been to South Korea?
+I need help with a missed connection.
+Do you sell a pair of sandals?
+Does chicken curry contain peanuts?
+How do I get to the eye clinic?
+When is the next train to Dallas?
+Do you want to attend class with me?
+Could you show me how to join the meeting?
+I've had lower back pain since yesterday.
+Where can I find the room key?
+How do I print this document?
+How often do you spend time swimming?
+Can you help me clean the washing machine?
+Should we expect freezing rain tomorrow?
+Where do I submit a mail forwarding request?
+What time should we meet for a birthday party?
+Can I try on this white T-shirt?
+I'd like to visit South Korea.
+Who should I contact about a missed connection?
+I'm looking for a pair of sandals.
+Is chicken curry spicy?
+What time does the eye clinic open?
+Does this bus go to Dallas?
+When should I attend class?
+When do I need to join the meeting?
+What should I do about lower back pain?
+I need help with the room key.
+Why can't I print this document?
+I'm interested in swimming.
+Do you know how to use the washing machine?
+How long will freezing rain continue?
+How long does a mail forwarding request take?
+Where should we meet for a birthday party?
+Do you have this white T-shirt in a larger size?
+What is the best time to visit South Korea?
+Where can I report a missed connection?
+Could you show me a pair of sandals?
+Can I get chicken curry without onions?
+What time does the eye clinic close?
+How long does it take to get to Dallas?
+Can you help me attend class?
+I haven't had time to join the meeting.
+Can I get medicine for lower back pain?
+Could you show me how to use the room key?
+Is it safe to print this document?
+I'm getting better at swimming.
+The washing machine stopped working.
+I'm not used to freezing rain.
+Is there a fee for a mail forwarding request?
+I'm looking forward to a birthday party.
+Is this white T-shirt on sale?
+How long should I stay in South Korea?
+Can you help me explain a missed connection?
+Is there a discount on a pair of sandals?
+Could you pack chicken curry to go?
+Is the eye clinic open now?
+Is there a direct route to Dallas?
+I forgot to attend class.
+Do we need to join the meeting today?
+Is lower back pain a common symptom?
+The room key is making a strange noise.
+I forgot how to print this document.
+Would you like to try swimming?
+I need to fix the washing machine.
+Driving is difficult because of freezing rain.
+Which documents are required for a mail forwarding request?
+Can we reschedule a birthday party?
+Can I return this white T-shirt?
+What food should I try in South Korea?
+What should I do about a missed connection?
+Can I order a pair of sandals online?
+How much does chicken curry cost?
+Can I walk to the eye clinic?
+I'd like to travel to Dallas.
+I'm planning to attend class tomorrow.
+Let's join the meeting together.
+How long will lower back pain last?
+Please check the room key in my room.
+It takes too long to print this document.
+What do you like about swimming?
+Could you check the washing machine?
+Our plans may change because of freezing rain.
+Can I complete a mail forwarding request online?
+Thank you for inviting me to a birthday party.
+Where was this white T-shirt made?
+Is public transportation easy to use in South Korea?
+Is there a form for a missed connection?
+Do you have a pair of sandals in stock?
+Is chicken curry available today?
+Is there parking near the eye clinic?
+Which platform is for the train to Dallas?
+I have enough time to attend class.
+I'm almost ready to join the meeting.
+Should I see a doctor for lower back pain?
+The door lock isn't working.
+Can you help me scan the QR code?
+I started swimming last year.
+Please don't touch the washing machine.
+Please be careful during freezing rain.
+Who should I contact about a mail forwarding request?
+How long will a birthday party last?
+How should I wash this white T-shirt?
+What is the weather like in South Korea?
+How long will it take to resolve a missed connection?
+I need to buy a pair of sandals.
+Can you recommend a drink with chicken curry?
+I need directions to the eye clinic.
+Can I buy a return ticket to Dallas?
+Is it okay if I attend class now?
+Why do I have to join the meeting?
+My main problem is lower back pain.
+Could someone check the door lock?
+How do I scan the QR code?
+My favorite weekend activity is swimming.
+Is the washing machine safe to use?
+Do I need special clothing for freezing rain?
+I have a question about a mail forwarding request.
+Do I need to bring anything to a birthday party?
+I think this white T-shirt looks good.
+Do I need a visa to visit South Korea?
+I need written confirmation of a missed connection.
+Where can I find a laptop sleeve?
+I'd like to order beef stew.
+Where is the nearest fire station?
+How much is a ticket to San Antonio?
+I need to finish my homework today.
+I need to review these notes.
+I have neck pain.
+How do I use the door lock?
+I need to scan the QR code.
+Do you enjoy drawing cartoons?
+The clothes dryer needs to be cleaned.
+The forecast says there will be extreme heat.
+I need help with a driver's license application.
+Would you like to join me for a school event?
+Does this pair of blue jeans fit me?
+Have you ever been to Singapore?
+I need help with a locked hotel room.
+Do you sell a laptop sleeve?
+Does beef stew contain peanuts?
+How do I get to the fire station?
+When is the next train to San Antonio?
+Do you want to finish my homework with me?
+Could you show me how to review these notes?
+I've had neck pain since yesterday.
+Where can I find the door lock?
+Why can't I scan the QR code?
+How often do you spend time drawing cartoons?
+Can you help me clean the clothes dryer?
+Should we expect extreme heat tomorrow?
+Where do I submit a driver's license application?
+What time should we meet for a school event?
+Can I try on this pair of blue jeans?
+I'd like to visit Singapore.
+Who should I contact about a locked hotel room?
+I'm looking for a laptop sleeve.
+Is beef stew spicy?
+What time does the fire station open?
+Does this bus go to San Antonio?
+When should I finish my homework?
+When do I need to review these notes?
+What should I do about neck pain?
+I need help with the door lock.
+Could you show me how to scan the QR code?
+I'm interested in drawing cartoons.
+Do you know how to use the clothes dryer?
+How long will extreme heat continue?
+How long does a driver's license application take?
+Where should we meet for a school event?
+Do you have this pair of blue jeans in a larger size?
+What is the best time to visit Singapore?
+Where can I report a locked hotel room?
+Could you show me a laptop sleeve?
+Can I get beef stew without onions?
+What time does the fire station close?
+How long does it take to get to San Antonio?
+Can you help me finish my homework?
+I haven't had time to review these notes.
+Can I get medicine for neck pain?
+Could you show me how to use the door lock?
+Is it safe to scan the QR code?
+I'm getting better at drawing cartoons.
+The clothes dryer stopped working.
+I'm not used to extreme heat.
+Is there a fee for a driver's license application?
+I'm looking forward to a school event.
+Is this pair of blue jeans on sale?
+How long should I stay in Singapore?
+Can you help me explain a locked hotel room?
+Is there a discount on a laptop sleeve?
+Could you pack beef stew to go?
+Is the fire station open now?
+Is there a direct route to San Antonio?
+I forgot to finish my homework.
+Do we need to review these notes today?
+Is neck pain a common symptom?
+The door lock is making a strange noise.
+I forgot how to scan the QR code.
+Would you like to try drawing cartoons?
+I need to fix the clothes dryer.
+Driving is difficult because of extreme heat.
+Which documents are required for a driver's license application?
+Can we reschedule a school event?
+Can I return this pair of blue jeans?
+What food should I try in Singapore?
+What should I do about a locked hotel room?
+Can I order a laptop sleeve online?
+How much does beef stew cost?
+Can I walk to the fire station?
+I'd like to travel to San Antonio.
+I'm planning to finish my homework tomorrow.
+Let's review these notes together.
+How long will neck pain last?
+Please check the door lock in my room.
+It takes too long to scan the QR code.
+What do you like about drawing cartoons?
+Could you check the clothes dryer?
+Our plans may change because of extreme heat.
+Can I complete a driver's license application online?
+Thank you for inviting me to a school event.
+Where was this pair of blue jeans made?
+Is public transportation easy to use in Singapore?
+Is there a form for a locked hotel room?
+Do you have a laptop sleeve in stock?
+Is beef stew available today?
+Is there parking near the fire station?
+Which platform is for the train to San Antonio?
+I have enough time to finish my homework.
+I'm almost ready to review these notes.
+Should I see a doctor for neck pain?
+The bedside lamp isn't working.
+Can you help me pair my headphones?
+I started drawing cartoons last year.
+Please don't touch the clothes dryer.
+Please be careful during extreme heat.
+Who should I contact about a driver's license application?
+How long will a school event last?
+How should I wash this pair of blue jeans?
+What is the weather like in Singapore?
+How long will it take to resolve a locked hotel room?
+I need to buy a laptop sleeve.
+Can you recommend a drink with beef stew?
+I need directions to the fire station.
+Can I buy a return ticket to San Antonio?
+Is it okay if I finish my homework now?
+Why do I have to review these notes?
+My main problem is neck pain.
+Could someone check the bedside lamp?
+How do I pair my headphones?
+My favorite weekend activity is drawing cartoons.
+Is the clothes dryer safe to use?
+Do I need special clothing for extreme heat?
+I have a question about a driver's license application.
+Do I need to bring anything to a school event?
+I think this pair of blue jeans looks good.
+Do I need a visa to visit Singapore?
+I need written confirmation of a locked hotel room.
+Where can I find a reusable water bottle?
+I'd like to order tofu curry.
+Where is the nearest county office?
+How much is a ticket to Washington?
+I need to clean my room today.
+I need to solve this problem.
+I have an earache.
+How do I use the bedside lamp?
+I need to pair my headphones.
+Do you enjoy painting landscapes?
+The vacuum cleaner needs to be cleaned.
+The forecast says there will be high humidity.
+I need help with an insurance claim.
+Would you like to join me for a concert?
+Does this rain jacket fit me?
+Have you ever been to Malaysia?
+I need help with a broken window.
+Do you sell a reusable water bottle?
+Does tofu curry contain peanuts?
+How do I get to the county office?
+When is the next train to Washington?
+Do you want to clean my room with me?
+Could you show me how to solve this problem?
+I've had an earache since yesterday.
+Where can I find the bedside lamp?
+Why can't I pair my headphones?
+How often do you spend time painting landscapes?
+Can you help me clean the vacuum cleaner?
+Should we expect high humidity tomorrow?
+Where do I submit an insurance claim?
+What time should we meet for a concert?
+Can I try on this rain jacket?
+I'd like to visit Malaysia.
+Who should I contact about a broken window?
+I'm looking for a reusable water bottle.
+Is tofu curry spicy?
+What time does the county office open?
+Does this bus go to Washington?
+When should I clean my room?
+When do I need to solve this problem?
+What should I do about an earache?
+I need help with the bedside lamp.
+Could you show me how to pair my headphones?
+I'm interested in painting landscapes.
+Do you know how to use the vacuum cleaner?
+How long will high humidity continue?
+How long does an insurance claim take?
+Where should we meet for a concert?
+Do you have this rain jacket in a larger size?
+What is the best time to visit Malaysia?
+Where can I report a broken window?
+Could you show me a reusable water bottle?
+Can I get tofu curry without onions?
+What time does the county office close?
+How long does it take to get to Washington?
+Can you help me clean my room?
+I haven't had time to solve this problem.
+Can I get medicine for an earache?
+Could you show me how to use the bedside lamp?
+Is it safe to pair my headphones?
+I'm getting better at painting landscapes.
+The vacuum cleaner stopped working.
+I'm not used to high humidity.
+Is there a fee for an insurance claim?
+I'm looking forward to a concert.
+Is this rain jacket on sale?
+How long should I stay in Malaysia?
+Can you help me explain a broken window?
+Is there a discount on a reusable water bottle?
+Could you pack tofu curry to go?
+Is the county office open now?
+Is there a direct route to Washington?
+I forgot to clean my room.
+Do we need to solve this problem today?
+Is an earache a common symptom?
+The bedside lamp is making a strange noise.
+I forgot how to pair my headphones.
+Would you like to try painting landscapes?
+I need to fix the vacuum cleaner.
+Driving is difficult because of high humidity.
+Which documents are required for an insurance claim?
+Can we reschedule a concert?
+Can I return this rain jacket?
+What food should I try in Malaysia?
+What should I do about a broken window?
+Can I order a reusable water bottle online?
+How much does tofu curry cost?
+Can I walk to the county office?
+I'd like to travel to Washington.
+I'm planning to clean my room tomorrow.
+Let's solve this problem together.
+How long will an earache last?
+Please check the bedside lamp in my room.
+It takes too long to pair my headphones.
+What do you like about painting landscapes?
+Could you check the vacuum cleaner?
+Our plans may change because of high humidity.
+Can I complete an insurance claim online?
+Thank you for inviting me to a concert.
+Where was this rain jacket made?
+Is public transportation easy to use in Malaysia?
+Is there a form for a broken window?
+Do you have a reusable water bottle in stock?
+Is tofu curry available today?
+Is there parking near the county office?
+Which platform is for the train to Washington?
+I have enough time to clean my room.
+I'm almost ready to solve this problem.
+Should I see a doctor for an earache?
+The refrigerator isn't working.
+Can you help me turn on Bluetooth?
+I started painting landscapes last year.
+Please don't touch the vacuum cleaner.
+Please be careful during high humidity.
+Who should I contact about an insurance claim?
+How long will a concert last?
+How should I wash this rain jacket?
+What is the weather like in Malaysia?
+How long will it take to resolve a broken window?
+I need to buy a reusable water bottle.
+Can you recommend a drink with tofu curry?
+I need directions to the county office.
+Can I buy a return ticket to Washington?
+Is it okay if I clean my room now?
+Why do I have to solve this problem?
+My main problem is an earache.
+Could someone check the refrigerator?
+How do I turn on Bluetooth?
+My favorite weekend activity is painting landscapes.
+Is the vacuum cleaner safe to use?
+Do I need special clothing for high humidity?
+I have a question about an insurance claim.
+Do I need to bring anything to a concert?
+I think this rain jacket looks good.
+Do I need a visa to visit Malaysia?
+I need written confirmation of a broken window.
+Where can I find a travel pillow?
+I'd like to order shrimp fried rice.
+Where is the nearest city hall?
+How much is a ticket to Philadelphia?
+I need to wash my clothes today.
+I need to write my essay.
+I have a toothache.
+How do I use the refrigerator?
+I need to turn on Bluetooth.
+Do you enjoy playing the guitar?
+The smoke alarm needs to be cleaned.
+The forecast says there will be freezing temperatures.
+I need help with a medical appointment.
+Would you like to join me for a museum visit?
+Does this formal shirt fit me?
+Have you ever been to Vietnam?
+I need help with a suspicious charge.
+Do you sell a travel pillow?
+Does shrimp fried rice contain peanuts?
+How do I get to the city hall?
+When is the next train to Philadelphia?
+Do you want to wash my clothes with me?
+Could you show me how to write my essay?
+I've had a toothache since yesterday.
+Where can I find the refrigerator?
+Why can't I turn on Bluetooth?
+How often do you spend time playing the guitar?
+Can you help me clean the smoke alarm?
+Should we expect freezing temperatures tomorrow?
+Where do I submit a medical appointment?
+What time should we meet for a museum visit?
+Can I try on this formal shirt?
+I'd like to visit Vietnam.
+Who should I contact about a suspicious charge?
+I'm looking for a travel pillow.
+Is shrimp fried rice spicy?
+What time does the city hall open?
+Does this bus go to Philadelphia?
+When should I wash my clothes?
+When do I need to write my essay?
+What should I do about a toothache?
+I need help with the refrigerator.
+Could you show me how to turn on Bluetooth?
+I'm interested in playing the guitar.
+Do you know how to use the smoke alarm?
+How long will freezing temperatures continue?
+How long does a medical appointment take?
+Where should we meet for a museum visit?
+Do you have this formal shirt in a larger size?
+What is the best time to visit Vietnam?
+Where can I report a suspicious charge?
+Could you show me a travel pillow?
+Can I get shrimp fried rice without onions?
+What time does the city hall close?
+How long does it take to get to Philadelphia?
+Can you help me wash my clothes?
+I haven't had time to write my essay.
+Can I get medicine for a toothache?
+Could you show me how to use the refrigerator?
+Is it safe to turn on Bluetooth?
+I'm getting better at playing the guitar.
+The smoke alarm stopped working.
+I'm not used to freezing temperatures.
+Is there a fee for a medical appointment?
+I'm looking forward to a museum visit.
+Is this formal shirt on sale?
+How long should I stay in Vietnam?
+Can you help me explain a suspicious charge?
+Is there a discount on a travel pillow?
+Could you pack shrimp fried rice to go?
+Is the city hall open now?
+Is there a direct route to Philadelphia?
+I forgot to wash my clothes.
+Do we need to write my essay today?
+Is a toothache a common symptom?
+The refrigerator is making a strange noise.
+I forgot how to turn on Bluetooth.
+Would you like to try playing the guitar?
+I need to fix the smoke alarm.
+Driving is difficult because of freezing temperatures.
+Which documents are required for a medical appointment?
+Can we reschedule a museum visit?
+Can I return this formal shirt?
+What food should I try in Vietnam?
+What should I do about a suspicious charge?
+Can I order a travel pillow online?
+How much does shrimp fried rice cost?
+Can I walk to the city hall?
+I'd like to travel to Philadelphia.
+I'm planning to wash my clothes tomorrow.
+Let's write my essay together.
+How long will a toothache last?
+Please check the refrigerator in my room.
+It takes too long to turn on Bluetooth.
+What do you like about playing the guitar?
+Could you check the smoke alarm?
+Our plans may change because of freezing temperatures.
+Can I complete a medical appointment online?
+Thank you for inviting me to a museum visit.
+Where was this formal shirt made?
+Is public transportation easy to use in Vietnam?
+Is there a form for a suspicious charge?
+Do you have a travel pillow in stock?
+Is shrimp fried rice available today?
+Is there parking near the city hall?
+Which platform is for the train to Philadelphia?
+I have enough time to wash my clothes.
+I'm almost ready to write my essay.
+Should I see a doctor for a toothache?
+The microwave isn't working.
+Can you help me share my location?
+I started playing the guitar last year.
+Please don't touch the smoke alarm.
+Please be careful during freezing temperatures.
+Who should I contact about a medical appointment?
+How long will a museum visit last?
+How should I wash this formal shirt?
+What is the weather like in Vietnam?
+How long will it take to resolve a suspicious charge?
+I need to buy a travel pillow.
+Can you recommend a drink with shrimp fried rice?
+I need directions to the city hall.
+Can I buy a return ticket to Philadelphia?
+Is it okay if I wash my clothes now?
+Why do I have to write my essay?
+My main problem is a toothache.
+Could someone check the microwave?
+How do I share my location?
+My favorite weekend activity is playing the guitar.
+Is the smoke alarm safe to use?
+Do I need special clothing for freezing temperatures?
+I have a question about a medical appointment.
+Do I need to bring anything to a museum visit?
+I think this formal shirt looks good.
+Do I need a visa to visit Vietnam?
+I need written confirmation of a suspicious charge.
+Where can I find a luggage tag?
+I'd like to order vegetable noodles.
+Where is the nearest courthouse?
+How much is a ticket to Los Angeles?
+I need to call my family today.
+I need to check my school email.
+I have a runny nose.
+How do I use the microwave?
+I need to share my location.
+Do you enjoy singing?
+The front door needs to be cleaned.
+The forecast says there will be a heat wave.
+I need help with a tax form.
+Would you like to join me for a picnic?
+Does this pair of dress shoes fit me?
+Have you ever been to Cambodia?
+I need help with a missing package.
+Do you sell a luggage tag?
+Does vegetable noodles contain peanuts?
+How do I get to the courthouse?
+When is the next train to Los Angeles?
+Do you want to call my family with me?
+Could you show me how to check my school email?
+I've had a runny nose since yesterday.
+Where can I find the microwave?
+Why can't I share my location?
+How often do you spend time singing?
+Can you help me clean the front door?
+Should we expect a heat wave tomorrow?
+Where do I submit a tax form?
+What time should we meet for a picnic?
+Can I try on this pair of dress shoes?
+I'd like to visit Cambodia.
+Who should I contact about a missing package?
+I'm looking for a luggage tag.
+Is vegetable noodles spicy?
+What time does the courthouse open?
+Does this bus go to Los Angeles?
+When should I call my family?
+When do I need to check my school email?
+What should I do about a runny nose?
+I need help with the microwave.
+Could you show me how to share my location?
+I'm interested in singing.
+Do you know how to use the front door?
+How long will a heat wave continue?
+How long does a tax form take?
+Where should we meet for a picnic?
+Do you have this pair of dress shoes in a larger size?
+What is the best time to visit Cambodia?
+Where can I report a missing package?
+Could you show me a luggage tag?
+Can I get vegetable noodles without onions?
+What time does the courthouse close?
+How long does it take to get to Los Angeles?
+Can you help me call my family?
+I haven't had time to check my school email.
+Can I get medicine for a runny nose?
+Could you show me how to use the microwave?
+Is it safe to share my location?
+I'm getting better at singing.
+The front door stopped working.
+I'm not used to a heat wave.
+Is there a fee for a tax form?
+I'm looking forward to a picnic.
+Is this pair of dress shoes on sale?
+How long should I stay in Cambodia?
+Can you help me explain a missing package?
+Is there a discount on a luggage tag?
+Could you pack vegetable noodles to go?
+Is the courthouse open now?
+Is there a direct route to Los Angeles?
+I forgot to call my family.
+Do we need to check my school email today?
+Is a runny nose a common symptom?
+The microwave is making a strange noise.
+I forgot how to share my location.
+Would you like to try singing?
+I need to fix the front door.
+Driving is difficult because of a heat wave.
+Which documents are required for a tax form?
+Can we reschedule a picnic?
+Can I return this pair of dress shoes?
+What food should I try in Cambodia?
+What should I do about a missing package?
+Can I order a luggage tag online?
+How much does vegetable noodles cost?
+Can I walk to the courthouse?
+I'd like to travel to Los Angeles.
+I'm planning to call my family tomorrow.
+Let's check my school email together.
+How long will a runny nose last?
+Please check the microwave in my room.
+It takes too long to share my location.
+What do you like about singing?
+Could you check the front door?
+Our plans may change because of a heat wave.
+Can I complete a tax form online?
+Thank you for inviting me to a picnic.
+Where was this pair of dress shoes made?
+Is public transportation easy to use in Cambodia?
+Is there a form for a missing package?
+Do you have a luggage tag in stock?
+Is vegetable noodles available today?
+Is there parking near the courthouse?
+Which platform is for the train to Los Angeles?
+I have enough time to call my family.
+I'm almost ready to check my school email.
+Should I see a doctor for a runny nose?
+The coffee maker isn't working.
+Can you help me open the attachment?
+I started singing last year.
+Please don't touch the front door.
+Please be careful during a heat wave.
+Who should I contact about a tax form?
+How long will a picnic last?
+How should I wash this pair of dress shoes?
+What is the weather like in Cambodia?
+How long will it take to resolve a missing package?
+I need to buy a luggage tag.
+Can you recommend a drink with vegetable noodles?
+I need directions to the courthouse.
+Can I buy a return ticket to Los Angeles?
+Is it okay if I call my family now?
+Why do I have to check my school email?
+My main problem is a runny nose.
+Could someone check the coffee maker?
+How do I open the attachment?
+My favorite weekend activity is singing.
+Is the front door safe to use?
+Do I need special clothing for a heat wave?
+I have a question about a tax form.
+Do I need to bring anything to a picnic?
+I think this pair of dress shoes looks good.
+Do I need a visa to visit Cambodia?
+I need written confirmation of a missing package.
+Where can I find a small padlock?
+I'd like to order cheese omelet.
+Where is the nearest visitor center?
+How much is a ticket to San Francisco?
+I need to buy groceries today.
+I need to update the spreadsheet.
+I have a stuffy nose.
+How do I use the coffee maker?
+I need to open the attachment.
+Do you enjoy dancing?
+The bedroom window needs to be cleaned.
+The forecast says there will be a cold front.
+I need help with a school registration.
+Would you like to join me for game night?
+Does this school uniform fit me?
+Have you ever been to Laos?
+I need help with a delayed delivery.
+Do you sell a small padlock?
+Does cheese omelet contain peanuts?
+How do I get to the visitor center?
+When is the next train to San Francisco?
+Do you want to buy groceries with me?
+Could you show me how to update the spreadsheet?
+I've had a stuffy nose since yesterday.
+Where can I find the coffee maker?
+Why can't I open the attachment?
+How often do you spend time dancing?
+Can you help me clean the bedroom window?
+Should we expect a cold front tomorrow?
+Where do I submit a school registration?
+What time should we meet for game night?
+Can I try on this school uniform?
+I'd like to visit Laos.
+Who should I contact about a delayed delivery?
+I'm looking for a small padlock.
+Is cheese omelet spicy?
+What time does the visitor center open?
+Does this bus go to San Francisco?
+When should I buy groceries?
+When do I need to update the spreadsheet?
+What should I do about a stuffy nose?
+I need help with the coffee maker.
+Could you show me how to open the attachment?
+I'm interested in dancing.
+Do you know how to use the bedroom window?
+How long will a cold front continue?
+How long does a school registration take?
+Where should we meet for game night?
+Do you have this school uniform in a larger size?
+What is the best time to visit Laos?
+Where can I report a delayed delivery?
+Could you show me a small padlock?
+Can I get cheese omelet without onions?
+What time does the visitor center close?
+How long does it take to get to San Francisco?
+Can you help me buy groceries?
+I haven't had time to update the spreadsheet.
+Can I get medicine for a stuffy nose?
+Could you show me how to use the coffee maker?
+Is it safe to open the attachment?
+I'm getting better at dancing.
+The bedroom window stopped working.
+I'm not used to a cold front.
+Is there a fee for a school registration?
+I'm looking forward to game night.
+Is this school uniform on sale?
+How long should I stay in Laos?
+Can you help me explain a delayed delivery?
+Is there a discount on a small padlock?
+Could you pack cheese omelet to go?
+Is the visitor center open now?
+Is there a direct route to San Francisco?
+I forgot to buy groceries.
+Do we need to update the spreadsheet today?
+Is a stuffy nose a common symptom?
+The coffee maker is making a strange noise.
+I forgot how to open the attachment.
+Would you like to try dancing?
+I need to fix the bedroom window.
+Driving is difficult because of a cold front.
+Which documents are required for a school registration?
+Can we reschedule game night?
+Can I return this school uniform?
+What food should I try in Laos?
+What should I do about a delayed delivery?
+Can I order a small padlock online?
+How much does cheese omelet cost?
+Can I walk to the visitor center?
+I'd like to travel to San Francisco.
+I'm planning to buy groceries tomorrow.
+Let's update the spreadsheet together.
+How long will a stuffy nose last?
+Please check the coffee maker in my room.
+It takes too long to open the attachment.
+What do you like about dancing?
+Could you check the bedroom window?
+Our plans may change because of a cold front.
+Can I complete a school registration online?
+Thank you for inviting me to game night.
+Where was this school uniform made?
+Is public transportation easy to use in Laos?
+Is there a form for a delayed delivery?
+Do you have a small padlock in stock?
+Is cheese omelet available today?
+Is there parking near the visitor center?
+Which platform is for the train to San Francisco?
+I have enough time to buy groceries.
+I'm almost ready to update the spreadsheet.
+Should I see a doctor for a stuffy nose?
+The hair dryer isn't working.
+Can you help me create a new account?
+I started dancing last year.
+Please don't touch the bedroom window.
+Please be careful during a cold front.
+Who should I contact about a school registration?
+How long will game night last?
+How should I wash this school uniform?
+What is the weather like in Laos?
+How long will it take to resolve a delayed delivery?
+I need to buy a small padlock.
+Can you recommend a drink with cheese omelet?
+I need directions to the visitor center.
+Can I buy a return ticket to San Francisco?
+Is it okay if I buy groceries now?
+Why do I have to update the spreadsheet?
+My main problem is a stuffy nose.
+Could someone check the hair dryer?
+How do I create a new account?
+My favorite weekend activity is dancing.
+Is the bedroom window safe to use?
+Do I need special clothing for a cold front?
+I have a question about a school registration.
+Do I need to bring anything to game night?
+I think this school uniform looks good.
+Do I need a visa to visit Laos?
+I need written confirmation of a delayed delivery.
+Where can I find an alarm clock?
+I'd like to order turkey sandwich.
+Where is the nearest art gallery?
+How much is a ticket to Seattle?
+I need to cook dinner today.
+I need to organize these files.
+I have itchy eyes.
+How do I use the hair dryer?
+I need to create a new account.
+Do you enjoy watching movies?
+The ceiling light needs to be cleaned.
+The forecast says there will be warm sunshine.
+I need help with a transcript request.
+Would you like to join me for a basketball game?
+Does this wool scarf fit me?
+Have you ever been to Indonesia?
+I need help with a lost room key.
+Do you sell an alarm clock?
+Does turkey sandwich contain peanuts?
+How do I get to the art gallery?
+When is the next train to Seattle?
+Do you want to cook dinner with me?
+Could you show me how to organize these files?
+I've had itchy eyes since yesterday.
+Where can I find the hair dryer?
+Why can't I create a new account?
+How often do you spend time watching movies?
+Can you help me clean the ceiling light?
+Should we expect warm sunshine tomorrow?
+Where do I submit a transcript request?
+What time should we meet for a basketball game?
+Can I try on this wool scarf?
+I'd like to visit Indonesia.
+Who should I contact about a lost room key?
+I'm looking for an alarm clock.
+Is turkey sandwich spicy?
+What time does the art gallery open?
+Does this bus go to Seattle?
+When should I cook dinner?
+When do I need to organize these files?
+What should I do about itchy eyes?
+I need help with the hair dryer.
+Could you show me how to create a new account?
+I'm interested in watching movies.
+Do you know how to use the ceiling light?
+How long will warm sunshine continue?
+How long does a transcript request take?
+Where should we meet for a basketball game?
+Do you have this wool scarf in a larger size?
+What is the best time to visit Indonesia?
+Where can I report a lost room key?
+Could you show me an alarm clock?
+Can I get turkey sandwich without onions?
+What time does the art gallery close?
+How long does it take to get to Seattle?
+Can you help me cook dinner?
+I haven't had time to organize these files.
+Can I get medicine for itchy eyes?
+Could you show me how to use the hair dryer?
+Is it safe to create a new account?
+I'm getting better at watching movies.
+The ceiling light stopped working.
+I'm not used to warm sunshine.
+Is there a fee for a transcript request?
+I'm looking forward to a basketball game.
+Is this wool scarf on sale?
+How long should I stay in Indonesia?
+Can you help me explain a lost room key?
+Is there a discount on an alarm clock?
+Could you pack turkey sandwich to go?
+Is the art gallery open now?
+Is there a direct route to Seattle?
+I forgot to cook dinner.
+Do we need to organize these files today?
+Is itchy eyes a common symptom?
+The hair dryer is making a strange noise.
+I forgot how to create a new account.
+Would you like to try watching movies?
+I need to fix the ceiling light.
+Driving is difficult because of warm sunshine.
+Which documents are required for a transcript request?
+Can we reschedule a basketball game?
+Can I return this wool scarf?
+What food should I try in Indonesia?
+What should I do about a lost room key?
+Can I order an alarm clock online?
+How much does turkey sandwich cost?
+Can I walk to the art gallery?
+I'd like to travel to Seattle.
+I'm planning to cook dinner tomorrow.
+Let's organize these files together.
+How long will itchy eyes last?
+Please check the hair dryer in my room.
+It takes too long to create a new account.
+What do you like about watching movies?
+Could you check the ceiling light?
+Our plans may change because of warm sunshine.
+Can I complete a transcript request online?
+Thank you for inviting me to a basketball game.
+Where was this wool scarf made?
+Is public transportation easy to use in Indonesia?
+Is there a form for a lost room key?
+Do you have an alarm clock in stock?
+Is turkey sandwich available today?
+Is there parking near the art gallery?
+Which platform is for the train to Seattle?
+I have enough time to cook dinner.
+I'm almost ready to organize these files.
+Should I see a doctor for itchy eyes?
+The room safe isn't working.
+Can you help me verify my email address?
+I started watching movies last year.
+Please don't touch the ceiling light.
+Please be careful during warm sunshine.
+Who should I contact about a transcript request?
+How long will a basketball game last?
+How should I wash this wool scarf?
+What is the weather like in Indonesia?
+How long will it take to resolve a lost room key?
+I need to buy an alarm clock.
+Can you recommend a drink with turkey sandwich?
+I need directions to the art gallery.
+Can I buy a return ticket to Seattle?
+Is it okay if I cook dinner now?
+Why do I have to organize these files?
+My main problem is itchy eyes.
+Could someone check the room safe?
+How do I verify my email address?
+My favorite weekend activity is watching movies.
+Is the ceiling light safe to use?
+Do I need special clothing for warm sunshine?
+I have a question about a transcript request.
+Do I need to bring anything to a basketball game?
+I think this wool scarf looks good.
+Do I need a visa to visit Indonesia?
+I need written confirmation of a lost room key.
+Where can I find a desk lamp?
+I'd like to order tuna salad.
+Where is the nearest science museum?
+How much is a ticket to Portland?
+I need to go for a walk today.
+I need to complete the application.
+I have watery eyes.
+How do I use the room safe?
+I need to verify my email address.
+Do you enjoy learning languages?
+The thermostat needs to be cleaned.
+The forecast says there will be cloudy weather.
+I need help with a library card application.
+Would you like to join me for a soccer match?
+Does this pair of warm gloves fit me?
+Have you ever been to the Philippines?
+I need help with a stolen bicycle.
+Do you sell a desk lamp?
+Does tuna salad contain peanuts?
+How do I get to the science museum?
+When is the next train to Portland?
+Do you want to go for a walk with me?
+Could you show me how to complete the application?
+I've had watery eyes since yesterday.
+Where can I find the room safe?
+Why can't I verify my email address?
+How often do you spend time learning languages?
+Can you help me clean the thermostat?
+Should we expect cloudy weather tomorrow?
+Where do I submit a library card application?
+What time should we meet for a soccer match?
+Can I try on this pair of warm gloves?
+I'd like to visit the Philippines.
+Who should I contact about a stolen bicycle?
+I'm looking for a desk lamp.
+Is tuna salad spicy?
+What time does the science museum open?
+Does this bus go to Portland?
+When should I go for a walk?
+When do I need to complete the application?
+What should I do about watery eyes?
+I need help with the room safe.
+Could you show me how to verify my email address?
+I'm interested in learning languages.
+Do you know how to use the thermostat?
+How long will cloudy weather continue?
+How long does a library card application take?
+Where should we meet for a soccer match?
+Do you have this pair of warm gloves in a larger size?
+What is the best time to visit the Philippines?
+Where can I report a stolen bicycle?
+Could you show me a desk lamp?
+Can I get tuna salad without onions?
+What time does the science museum close?
+How long does it take to get to Portland?
+Can you help me go for a walk?
+I haven't had time to complete the application.
+Can I get medicine for watery eyes?
+Could you show me how to use the room safe?
+Is it safe to verify my email address?
+I'm getting better at learning languages.
+The thermostat stopped working.
+I'm not used to cloudy weather.
+Is there a fee for a library card application?
+I'm looking forward to a soccer match.
+Is this pair of warm gloves on sale?
+How long should I stay in the Philippines?
+Can you help me explain a stolen bicycle?
+Is there a discount on a desk lamp?
+Could you pack tuna salad to go?
+Is the science museum open now?
+Is there a direct route to Portland?
+I forgot to go for a walk.
+Do we need to complete the application today?
+Is watery eyes a common symptom?
+The room safe is making a strange noise.
+I forgot how to verify my email address.
+Would you like to try learning languages?
+I need to fix the thermostat.
+Driving is difficult because of cloudy weather.
+Which documents are required for a library card application?
+Can we reschedule a soccer match?
+Can I return this pair of warm gloves?
+What food should I try in the Philippines?
+What should I do about a stolen bicycle?
+Can I order a desk lamp online?
+How much does tuna salad cost?
+Can I walk to the science museum?
+I'd like to travel to Portland.
+I'm planning to go for a walk tomorrow.
+Let's complete the application together.
+How long will watery eyes last?
+Please check the room safe in my room.
+It takes too long to verify my email address.
+What do you like about learning languages?
+Could you check the thermostat?
+Our plans may change because of cloudy weather.
+Can I complete a library card application online?
+Thank you for inviting me to a soccer match.
+Where was this pair of warm gloves made?
+Is public transportation easy to use in the Philippines?
+Is there a form for a stolen bicycle?
+Do you have a desk lamp in stock?
+Is tuna salad available today?
+Is there parking near the science museum?
+Which platform is for the train to Portland?
+I have enough time to go for a walk.
+I'm almost ready to complete the application.
+Should I see a doctor for watery eyes?
+The hotel phone isn't working.
+Can you help me change the language?
+I started learning languages last year.
+Please don't touch the thermostat.
+Please be careful during cloudy weather.
+Who should I contact about a library card application?
+How long will a soccer match last?
+How should I wash this pair of warm gloves?
+What is the weather like in the Philippines?
+How long will it take to resolve a stolen bicycle?
+I need to buy a desk lamp.
+Can you recommend a drink with tuna salad?
+I need directions to the science museum.
+Can I buy a return ticket to Portland?
+Is it okay if I go for a walk now?
+Why do I have to complete the application?
+My main problem is watery eyes.
+Could someone check the hotel phone?
+How do I change the language?
+My favorite weekend activity is learning languages.
+Is the thermostat safe to use?
+Do I need special clothing for cloudy weather?
+I have a question about a library card application.
+Do I need to bring anything to a soccer match?
+I think this pair of warm gloves looks good.
+Do I need a visa to visit the Philippines?
+I need written confirmation of a stolen bicycle.
+Where can I find a scientific calculator?
+I'd like to order Caesar salad.
+Where is the nearest history museum?
+How much is a ticket to Denver?
+I need to exercise at the gym today.
+I need to read the instructions.
+I have seasonal allergies.
+How do I use the hotel phone?
+I need to change the language.
+Do you enjoy programming?
+The water heater needs to be cleaned.
+The forecast says there will be clear skies.
+I need help with a phone plan change.
+Would you like to join me for a campus tour?
+Does this baseball cap fit me?
+Have you ever been to China?
+I need help with a damaged rental car.
+Do you sell a scientific calculator?
+Does Caesar salad contain peanuts?
+How do I get to the history museum?
+When is the next train to Denver?
+Do you want to exercise at the gym with me?
+Could you show me how to read the instructions?
+I've had seasonal allergies since yesterday.
+Where can I find the hotel phone?
+Why can't I change the language?
+How often do you spend time programming?
+Can you help me clean the water heater?
+Should we expect clear skies tomorrow?
+Where do I submit a phone plan change?
+What time should we meet for a campus tour?
+Can I try on this baseball cap?
+I'd like to visit China.
+Who should I contact about a damaged rental car?
+I'm looking for a scientific calculator.
+Is Caesar salad spicy?
+What time does the history museum open?
+Does this bus go to Denver?
+When should I exercise at the gym?
+When do I need to read the instructions?
+What should I do about seasonal allergies?
+I need help with the hotel phone.
+Could you show me how to change the language?
+I'm interested in programming.
+Do you know how to use the water heater?
+How long will clear skies continue?
+How long does a phone plan change take?
+Where should we meet for a campus tour?
+Do you have this baseball cap in a larger size?
+What is the best time to visit China?
+Where can I report a damaged rental car?
+Could you show me a scientific calculator?
+Can I get Caesar salad without onions?
+What time does the history museum close?
+How long does it take to get to Denver?
+Can you help me exercise at the gym?
+I haven't had time to read the instructions.
+Can I get medicine for seasonal allergies?
+Could you show me how to use the hotel phone?
+Is it safe to change the language?
+I'm getting better at programming.
+The water heater stopped working.
+I'm not used to clear skies.
+Is there a fee for a phone plan change?
+I'm looking forward to a campus tour.
+Is this baseball cap on sale?
+How long should I stay in China?
+Can you help me explain a damaged rental car?
+Is there a discount on a scientific calculator?
+Could you pack Caesar salad to go?
+Is the history museum open now?
+Is there a direct route to Denver?
+I forgot to exercise at the gym.
+Do we need to read the instructions today?
+Is seasonal allergies a common symptom?
+The hotel phone is making a strange noise.
+I forgot how to change the language.
+Would you like to try programming?
+I need to fix the water heater.
+Driving is difficult because of clear skies.
+Which documents are required for a phone plan change?
+Can we reschedule a campus tour?
+Can I return this baseball cap?
+What food should I try in China?
+What should I do about a damaged rental car?
+Can I order a scientific calculator online?
+How much does Caesar salad cost?
+Can I walk to the history museum?
+I'd like to travel to Denver.
+I'm planning to exercise at the gym tomorrow.
+Let's read the instructions together.
+How long will seasonal allergies last?
+Please check the hotel phone in my room.
+It takes too long to change the language.
+What do you like about programming?
+Could you check the water heater?
+Our plans may change because of clear skies.
+Can I complete a phone plan change online?
+Thank you for inviting me to a campus tour.
+Where was this baseball cap made?
+Is public transportation easy to use in China?
+Is there a form for a damaged rental car?
+Do you have a scientific calculator in stock?
+Is Caesar salad available today?
+Is there parking near the history museum?
+Which platform is for the train to Denver?
+I have enough time to exercise at the gym.
+I'm almost ready to read the instructions.
+Should I see a doctor for seasonal allergies?
+The window isn't working.
+Can you help me enable the captions?
+I started programming last year.
+Please don't touch the water heater.
+Please be careful during clear skies.
+Who should I contact about a phone plan change?
+How long will a campus tour last?
+How should I wash this baseball cap?
+What is the weather like in China?
+How long will it take to resolve a damaged rental car?
+I need to buy a scientific calculator.
+Can you recommend a drink with Caesar salad?
+I need directions to the history museum.
+Can I buy a return ticket to Denver?
+Is it okay if I exercise at the gym now?
+Why do I have to read the instructions?
+My main problem is seasonal allergies.
+Could someone check the window?
+How do I enable the captions?
+My favorite weekend activity is programming.
+Is the water heater safe to use?
+Do I need special clothing for clear skies?
+I have a question about a phone plan change.
+Do I need to bring anything to a campus tour?
+I think this baseball cap looks good.
+Do I need a visa to visit China?
+I need written confirmation of a damaged rental car.
+Where can I find a document folder?
+I'd like to order tomato soup.
+Where is the nearest concert hall?
+How much is a ticket to Miami?
+I need to take a shower today.
+I need to answer these questions.
+I have an upset stomach.
+How do I use the window?
+I need to enable the captions.
+Do you enjoy making video games?
+The air filter needs to be cleaned.
+The forecast says there will be scattered showers.
+I need help with a utility payment.
+Would you like to join me for a group project?
+Does this leather belt fit me?
+Have you ever been to India?
+I need help with a traffic accident.
+Do you sell a document folder?
+Does tomato soup contain peanuts?
+How do I get to the concert hall?
+When is the next train to Miami?
+Do you want to take a shower with me?
+Could you show me how to answer these questions?
+I've had an upset stomach since yesterday.
+Where can I find the window?
+Why can't I enable the captions?
+How often do you spend time making video games?
+Can you help me clean the air filter?
+Should we expect scattered showers tomorrow?
+Where do I submit a utility payment?
+What time should we meet for a group project?
+Can I try on this leather belt?
+I'd like to visit India.
+Who should I contact about a traffic accident?
+I'm looking for a document folder.
+Is tomato soup spicy?
+What time does the concert hall open?
+Does this bus go to Miami?
+When should I take a shower?
+When do I need to answer these questions?
+What should I do about an upset stomach?
+I need help with the window.
+Could you show me how to enable the captions?
+I'm interested in making video games.
+Do you know how to use the air filter?
+How long will scattered showers continue?
+How long does a utility payment take?
+Where should we meet for a group project?
+Do you have this leather belt in a larger size?
+What is the best time to visit India?
+Where can I report a traffic accident?
+Could you show me a document folder?
+Can I get tomato soup without onions?
+What time does the concert hall close?
+How long does it take to get to Miami?
+Can you help me take a shower?
+I haven't had time to answer these questions.
+Can I get medicine for an upset stomach?
+Could you show me how to use the window?
+Is it safe to enable the captions?
+I'm getting better at making video games.
+The air filter stopped working.
+I'm not used to scattered showers.
+Is there a fee for a utility payment?
+I'm looking forward to a group project.
+Is this leather belt on sale?
+How long should I stay in India?
+Can you help me explain a traffic accident?
+Is there a discount on a document folder?
+Could you pack tomato soup to go?
+Is the concert hall open now?
+Is there a direct route to Miami?
+I forgot to take a shower.
+Do we need to answer these questions today?
+Is an upset stomach a common symptom?
+The window is making a strange noise.
+I forgot how to enable the captions.
+Would you like to try making video games?
+I need to fix the air filter.
+Driving is difficult because of scattered showers.
+Which documents are required for a utility payment?
+Can we reschedule a group project?
+Can I return this leather belt?
+What food should I try in India?
+What should I do about a traffic accident?
+Can I order a document folder online?
+How much does tomato soup cost?
+Can I walk to the concert hall?
+I'd like to travel to Miami.
+I'm planning to take a shower tomorrow.
+Let's answer these questions together.
+How long will an upset stomach last?
+Please check the window in my room.
+It takes too long to enable the captions.
+What do you like about making video games?
+Could you check the air filter?
+Our plans may change because of scattered showers.
+Can I complete a utility payment online?
+Thank you for inviting me to a group project.
+Where was this leather belt made?
+Is public transportation easy to use in India?
+Is there a form for a traffic accident?
+Do you have a document folder in stock?
+Is tomato soup available today?
+Is there parking near the concert hall?
+Which platform is for the train to Miami?
+I have enough time to take a shower.
+I'm almost ready to answer these questions.
+Should I see a doctor for an upset stomach?
+The curtains isn't working.
+Can you help me join the video call?
+I started making video games last year.
+Please don't touch the air filter.
+Please be careful during scattered showers.
+Who should I contact about a utility payment?
+How long will a group project last?
+How should I wash this leather belt?
+What is the weather like in India?
+How long will it take to resolve a traffic accident?
+I need to buy a document folder.
+Can you recommend a drink with tomato soup?
+I need directions to the concert hall.
+Can I buy a return ticket to Miami?
+Is it okay if I take a shower now?
+Why do I have to answer these questions?
+My main problem is an upset stomach.
+Could someone check the curtains?
+How do I join the video call?
+My favorite weekend activity is making video games.
+Is the air filter safe to use?
+Do I need special clothing for scattered showers?
+I have a question about a utility payment.
+Do I need to bring anything to a group project?
+I think this leather belt looks good.
+Do I need a visa to visit India?
+I need written confirmation of a traffic accident.
+Where can I find a ruler?
+I'd like to order a baked potato.
+Where is the nearest sports center?
+How much is a ticket to Atlanta?
+I need to charge my phone today.
+I need to correct my mistakes.
+I have heartburn.
+How do I use the curtains?
+I need to join the video call.
+Do you enjoy building computers?
+The garbage disposal needs to be cleaned.
+The forecast says there will be morning frost.
+I need help with a refund request.
+Would you like to join me for a language exchange?
+Does this cotton hoodie fit me?
+Have you ever been to Australia?
+I need help with a medical emergency.
+Do you sell a ruler?
+Does a baked potato contain peanuts?
+How do I get to the sports center?
+When is the next train to Atlanta?
+Do you want to charge my phone with me?
+Could you show me how to correct my mistakes?
+I've had heartburn since yesterday.
+Where can I find the curtains?
+Why can't I join the video call?
+How often do you spend time building computers?
+Can you help me clean the garbage disposal?
+Should we expect morning frost tomorrow?
+Where do I submit a refund request?
+What time should we meet for a language exchange?
+Can I try on this cotton hoodie?
+I'd like to visit Australia.
+Who should I contact about a medical emergency?
+I'm looking for a ruler.
+Is a baked potato spicy?
+What time does the sports center open?
+Does this bus go to Atlanta?
+When should I charge my phone?
+When do I need to correct my mistakes?
+What should I do about heartburn?
+I need help with the curtains.
+Could you show me how to join the video call?
+I'm interested in building computers.
+Do you know how to use the garbage disposal?
+How long will morning frost continue?
+How long does a refund request take?
+Where should we meet for a language exchange?
+Do you have this cotton hoodie in a larger size?
+What is the best time to visit Australia?
+Where can I report a medical emergency?
+Could you show me a ruler?
+Can I get a baked potato without onions?
+What time does the sports center close?
+How long does it take to get to Atlanta?
+Can you help me charge my phone?
+I haven't had time to correct my mistakes.
+Can I get medicine for heartburn?
+Could you show me how to use the curtains?
+Is it safe to join the video call?
+I'm getting better at building computers.
+The garbage disposal stopped working.
+I'm not used to morning frost.
+Is there a fee for a refund request?
+I'm looking forward to a language exchange.
+Is this cotton hoodie on sale?
+How long should I stay in Australia?
+Can you help me explain a medical emergency?
+Is there a discount on a ruler?
+Could you pack a baked potato to go?
+Is the sports center open now?
+Is there a direct route to Atlanta?
+I forgot to charge my phone.
+Do we need to correct my mistakes today?
+Is heartburn a common symptom?
+The curtains is making a strange noise.
+I forgot how to join the video call.
+Would you like to try building computers?
+I need to fix the garbage disposal.
+Driving is difficult because of morning frost.
+Which documents are required for a refund request?
+Can we reschedule a language exchange?
+Can I return this cotton hoodie?
+What food should I try in Australia?
+What should I do about a medical emergency?
+Can I order a ruler online?
+How much does a baked potato cost?
+Can I walk to the sports center?
+I'd like to travel to Atlanta.
+I'm planning to charge my phone tomorrow.
+Let's correct my mistakes together.
+How long will heartburn last?
+Please check the curtains in my room.
+It takes too long to join the video call.
+What do you like about building computers?
+Could you check the garbage disposal?
+Our plans may change because of morning frost.
+Can I complete a refund request online?
+Thank you for inviting me to a language exchange.
+Where was this cotton hoodie made?
+Is public transportation easy to use in Australia?
+Is there a form for a medical emergency?
+Do you have a ruler in stock?
+Is a baked potato available today?
+Is there parking near the sports center?
+Which platform is for the train to Atlanta?
+I have enough time to charge my phone.
+I'm almost ready to correct my mistakes.
+Should I see a doctor for heartburn?
+The heater isn't working.
+Can you help me mute my microphone?
+I started building computers last year.
+Please don't touch the garbage disposal.
+Please be careful during morning frost.
+Who should I contact about a refund request?
+How long will a language exchange last?
+How should I wash this cotton hoodie?
+What is the weather like in Australia?
+How long will it take to resolve a medical emergency?
+I need to buy a ruler.
+Can you recommend a drink with a baked potato?
+I need directions to the sports center.
+Can I buy a return ticket to Atlanta?
+Is it okay if I charge my phone now?
+Why do I have to correct my mistakes?
+My main problem is heartburn.
+Could someone check the heater?
+How do I mute my microphone?
+My favorite weekend activity is building computers.
+Is the garbage disposal safe to use?
+Do I need special clothing for morning frost?
+I have a question about a refund request.
+Do I need to bring anything to a language exchange?
+I think this cotton hoodie looks good.
+Do I need a visa to visit Australia?
+I need written confirmation of a medical emergency.
+Where can I find a pencil case?
+I'd like to order a grilled cheese sandwich.
+Where is the nearest public swimming pool?
+How much is a ticket to the airport?
+I need to check my schedule today.
+Could you show me how to practice my speech?
+I have indigestion.
+How do I use the heater?
+I need to mute my microphone.
+Do you enjoy playing chess?
+The shower head needs to be cleaned.
+The forecast says there will be afternoon rain.
+I need help with a hotel reservation.
+Would you like to join me for a cooking class?
+Does this pair of athletic shorts fit me?
+Have you ever been to New Zealand?
+I need help with a fire alarm.
+Do you sell a pencil case?
+Does a grilled cheese sandwich contain peanuts?
+How do I get to the public swimming pool?
+When is the next train to the airport?
+Do you want to check my schedule with me?
+When do I need to practice my speech?
+I've had indigestion since yesterday.
+Where can I find the heater?
+Why can't I mute my microphone?
+How often do you spend time playing chess?
+Can you help me clean the shower head?
+Should we expect afternoon rain tomorrow?
+Where do I submit a hotel reservation?
+What time should we meet for a cooking class?
+Can I try on this pair of athletic shorts?
+I'd like to visit New Zealand.
+Who should I contact about a fire alarm?
+I'm looking for a pencil case.
+Is a grilled cheese sandwich spicy?
+What time does the public swimming pool open?
+Does this bus go to the airport?
+When should I check my schedule?
+I haven't had time to practice my speech.
+What should I do about indigestion?
+I need help with the heater.
+Could you show me how to mute my microphone?
+I'm interested in playing chess.
+Do you know how to use the shower head?
+How long will afternoon rain continue?
+How long does a hotel reservation take?
+Where should we meet for a cooking class?
+Do you have this pair of athletic shorts in a larger size?
+What is the best time to visit New Zealand?
+Where can I report a fire alarm?
+Could you show me a pencil case?
+Can I get a grilled cheese sandwich without onions?
+What time does the public swimming pool close?
+How long does it take to get to the airport?
+Can you help me check my schedule?
+Do we need to practice my speech today?
+Can I get medicine for indigestion?
+Could you show me how to use the heater?
+Is it safe to mute my microphone?
+I'm getting better at playing chess.
+The shower head stopped working.
+I'm not used to afternoon rain.
+Is there a fee for a hotel reservation?
+I'm looking forward to a cooking class.
+Is this pair of athletic shorts on sale?
+How long should I stay in New Zealand?
+Can you help me explain a fire alarm?
+Is there a discount on a pencil case?
+Could you pack a grilled cheese sandwich to go?
+Is the public swimming pool open now?
+Is there a direct route to the airport?
+I forgot to check my schedule.
+Let's practice my speech together.
+Is indigestion a common symptom?
+The heater is making a strange noise.
+I forgot how to mute my microphone.
+Would you like to try playing chess?
+I need to fix the shower head.
+Driving is difficult because of afternoon rain.
+Which documents are required for a hotel reservation?
+Can we reschedule a cooking class?
+Can I return this pair of athletic shorts?
+What food should I try in New Zealand?
+What should I do about a fire alarm?
+Can I order a pencil case online?
+How much does a grilled cheese sandwich cost?
+Can I walk to the public swimming pool?
+I'd like to travel to the airport.
+I'm planning to check my schedule tomorrow.
+I'm almost ready to practice my speech.
+How long will indigestion last?
+Please check the heater in my room.
+It takes too long to mute my microphone.
+What do you like about playing chess?
+Could you check the shower head?
+Our plans may change because of afternoon rain.
+Can I complete a hotel reservation online?
+Thank you for inviting me to a cooking class.
+Where was this pair of athletic shorts made?
+Is public transportation easy to use in New Zealand?
+Is there a form for a fire alarm?
+Do you have a pencil case in stock?
+Is a grilled cheese sandwich available today?
+Is there parking near the public swimming pool?
+Which platform is for the train to the airport?
+I have enough time to check my schedule.
+Why do I have to practice my speech?
+Should I see a doctor for indigestion?
+The Wi-Fi connection isn't working.
+Can you help me turn on my camera?
+I started playing chess last year.
+Please don't touch the shower head.
+Please be careful during afternoon rain.
+Who should I contact about a hotel reservation?
+How long will a cooking class last?
+How should I wash this pair of athletic shorts?
+What is the weather like in New Zealand?
+How long will it take to resolve a fire alarm?
+I need to buy a pencil case.
+Can you recommend a drink with a grilled cheese sandwich?
+I need directions to the public swimming pool.
+Can I buy a return ticket to the airport?
+Is it okay if I check my schedule now?
+I need to upload the project.
+My main problem is indigestion.
+Could someone check the Wi-Fi connection?
+How do I turn on my camera?
+My favorite weekend activity is playing chess.
+Is the shower head safe to use?
+Do I need special clothing for afternoon rain?
+I have a question about a hotel reservation.
+Do I need to bring anything to a cooking class?
+I think this pair of athletic shorts looks good.
+Do I need a visa to visit New Zealand?
+I need written confirmation of a fire alarm.
+Where can I find an eraser?
+I'd like to order chicken tacos.
+Where is the nearest fitness center?
+How much is a ticket to downtown?
+I need to make my bed today.
+Could you show me how to upload the project?
+I have mild nausea.
+How do I use the Wi-Fi connection?
+I need to turn on my camera.
+Do you enjoy solving puzzles?
+The bathroom faucet needs to be cleaned.
+The forecast says there will be evening snow.
+I need help with a flight change.
+Would you like to join me for an art class?
+Does this summer dress fit me?
+Have you ever been to Canada?
+I need help with a power outage.
+Do you sell an eraser?
+Does chicken tacos contain peanuts?
+How do I get to the fitness center?
+When is the next train to downtown?
+Do you want to make my bed with me?
+When do I need to upload the project?
+I've had mild nausea since yesterday.
+Where can I find the Wi-Fi connection?
+Why can't I turn on my camera?
+How often do you spend time solving puzzles?
+Can you help me clean the bathroom faucet?
+Should we expect evening snow tomorrow?
+Where do I submit a flight change?
+What time should we meet for an art class?
+Can I try on this summer dress?
+I'd like to visit Canada.
+Who should I contact about a power outage?
+I'm looking for an eraser.
+Is chicken tacos spicy?
+What time does the fitness center open?
+Does this bus go to downtown?
+When should I make my bed?
+I haven't had time to upload the project.
+What should I do about mild nausea?
+I need help with the Wi-Fi connection.
+Could you show me how to turn on my camera?
+I'm interested in solving puzzles.
+Do you know how to use the bathroom faucet?
+How long will evening snow continue?
+How long does a flight change take?
+Where should we meet for an art class?
+Do you have this summer dress in a larger size?
+What is the best time to visit Canada?
+Where can I report a power outage?
+Could you show me an eraser?
+Can I get chicken tacos without onions?
+What time does the fitness center close?
+How long does it take to get to downtown?
+Can you help me make my bed?
+Do we need to upload the project today?
+Can I get medicine for mild nausea?
+Could you show me how to use the Wi-Fi connection?
+Is it safe to turn on my camera?
+I'm getting better at solving puzzles.
+The bathroom faucet stopped working.
+I'm not used to evening snow.
+Is there a fee for a flight change?
+I'm looking forward to an art class.
+Is this summer dress on sale?
+How long should I stay in Canada?
+Can you help me explain a power outage?
+Is there a discount on an eraser?
+Could you pack chicken tacos to go?
+Is the fitness center open now?
+Is there a direct route to downtown?
+I forgot to make my bed.
+Let's upload the project together.
+Is mild nausea a common symptom?
+The Wi-Fi connection is making a strange noise.
+I forgot how to turn on my camera.
+Would you like to try solving puzzles?
+I need to fix the bathroom faucet.
+Driving is difficult because of evening snow.
+Which documents are required for a flight change?
+Can we reschedule an art class?
+Can I return this summer dress?
+What food should I try in Canada?
+What should I do about a power outage?
+Can I order an eraser online?
+How much does chicken tacos cost?
+Can I walk to the fitness center?
+I'd like to travel to downtown.
+I'm planning to make my bed tomorrow.
+I'm almost ready to upload the project.
+How long will mild nausea last?
+Please check the Wi-Fi connection in my room.
+It takes too long to turn on my camera.
+What do you like about solving puzzles?
+Could you check the bathroom faucet?
+Our plans may change because of evening snow.
+Can I complete a flight change online?
+Thank you for inviting me to an art class.
+Where was this summer dress made?
+Is public transportation easy to use in Canada?
+Is there a form for a power outage?
+Do you have an eraser in stock?
+Is chicken tacos available today?
+Is there parking near the fitness center?
+Which platform is for the train to downtown?
+I have enough time to make my bed.
+Why do I have to upload the project?
+Should I see a doctor for mild nausea?
+The power outlet isn't working.
+Can you help me save this document?
+I started solving puzzles last year.
+Please don't touch the bathroom faucet.
+Please be careful during evening snow.
+Who should I contact about a flight change?
+How long will an art class last?
+How should I wash this summer dress?
+What is the weather like in Canada?
+How long will it take to resolve a power outage?
+I need to buy an eraser.
+Can you recommend a drink with chicken tacos?
+I need directions to the fitness center.
+Can I buy a return ticket to downtown?
+Is it okay if I make my bed now?
+I need to download the worksheet.
+My main problem is mild nausea.
+Could someone check the power outlet?
+How do I save this document?
+My favorite weekend activity is solving puzzles.
+Is the bathroom faucet safe to use?
+Do I need special clothing for evening snow?
+I have a question about a flight change.
+Do I need to bring anything to an art class?
+I think this summer dress looks good.
+Do I need a visa to visit Canada?
+I need written confirmation of a power outage.
+Where can I find a stapler?
+I'd like to order a beef burrito.
+Where is the nearest public library?
+How much is a ticket to the city center?
+I need to take out the trash today.
+Could you show me how to download the worksheet?
+I have dizziness.
+How do I use the power outlet?
+I need to save this document.
+Do you enjoy collecting postcards?
+The toilet needs to be cleaned.
+The forecast says there will be strong sunlight.
+I need help with a ticket cancellation.
+Would you like to join me for a music lesson?
+Does this business suit fit me?
+Have you ever been to Mexico?
+I need help with a water leak.
+Do you sell a stapler?
+Does a beef burrito contain peanuts?
+How do I get to the public library?
+When is the next train to the city center?
+Do you want to take out the trash with me?
+When do I need to download the worksheet?
+I've had dizziness since yesterday.
+Where can I find the power outlet?
+Why can't I save this document?
+How often do you spend time collecting postcards?
+Can you help me clean the toilet?
+Should we expect strong sunlight tomorrow?
+Where do I submit a ticket cancellation?
+What time should we meet for a music lesson?
+Can I try on this business suit?
+I'd like to visit Mexico.
+Who should I contact about a water leak?
+I'm looking for a stapler.
+Is a beef burrito spicy?
+What time does the public library open?
+Does this bus go to the city center?
+When should I take out the trash?
+I haven't had time to download the worksheet.
+What should I do about dizziness?
+I need help with the power outlet.
+Could you show me how to save this document?
+I'm interested in collecting postcards.
+Do you know how to use the toilet?
+How long will strong sunlight continue?
+How long does a ticket cancellation take?
+Where should we meet for a music lesson?
+Do you have this business suit in a larger size?
+What is the best time to visit Mexico?
+Where can I report a water leak?
+Could you show me a stapler?
+Can I get a beef burrito without onions?
+What time does the public library close?
+How long does it take to get to the city center?
+Can you help me take out the trash?
+Do we need to download the worksheet today?
+Can I get medicine for dizziness?
+Could you show me how to use the power outlet?
+Is it safe to save this document?
+I'm getting better at collecting postcards.
+The toilet stopped working.
+I'm not used to strong sunlight.
+Is there a fee for a ticket cancellation?
+I'm looking forward to a music lesson.
+Is this business suit on sale?
+How long should I stay in Mexico?
+Can you help me explain a water leak?
+Is there a discount on a stapler?
+Could you pack a beef burrito to go?
+Is the public library open now?
+Is there a direct route to the city center?
+I forgot to take out the trash.
+Let's download the worksheet together.
+Is dizziness a common symptom?
+The power outlet is making a strange noise.
+I forgot how to save this document.
+Would you like to try collecting postcards?
+I need to fix the toilet.
+Driving is difficult because of strong sunlight.
+Which documents are required for a ticket cancellation?
+Can we reschedule a music lesson?
+Can I return this business suit?
+What food should I try in Mexico?
+What should I do about a water leak?
+Can I order a stapler online?
+How much does a beef burrito cost?
+Can I walk to the public library?
+I'd like to travel to the city center.
+I'm planning to take out the trash tomorrow.
+I'm almost ready to download the worksheet.
+How long will dizziness last?
+Please check the power outlet in my room.
+It takes too long to save this document.
+What do you like about collecting postcards?
+Could you check the toilet?
+Our plans may change because of strong sunlight.
+Can I complete a ticket cancellation online?
+Thank you for inviting me to a music lesson.
+Where was this business suit made?
+Is public transportation easy to use in Mexico?
+Is there a form for a water leak?
+Do you have a stapler in stock?
+Is a beef burrito available today?
+Is there parking near the public library?
+Which platform is for the train to the city center?
+I have enough time to take out the trash.
+Why do I have to download the worksheet?
+Should I see a doctor for dizziness?
+The elevator isn't working.
+Can you help me rename the file?
+I started collecting postcards last year.
+Please don't touch the toilet.
+Please be careful during strong sunlight.
+Who should I contact about a ticket cancellation?
+How long will a music lesson last?
+How should I wash this business suit?
+What is the weather like in Mexico?
+How long will it take to resolve a water leak?
+I need to buy a stapler.
+Can you recommend a drink with a beef burrito?
+I need directions to the public library.
+Can I buy a return ticket to the city center?
+Is it okay if I take out the trash now?
+I need to share the document.
+My main problem is dizziness.
+Could someone check the elevator?
+How do I rename the file?
+My favorite weekend activity is collecting postcards.
+Is the toilet safe to use?
+Do I need special clothing for strong sunlight?
+I have a question about a ticket cancellation.
+Do I need to bring anything to a music lesson?
+I think this business suit looks good.
+Do I need a visa to visit Mexico?
+I need written confirmation of a water leak.
+Where can I find a pair of scissors?
+I'd like to order a vegetable quesadilla.
+Where is the nearest university library?
+How much is a ticket to the university?
+I need to wash the dishes today.
+Could you show me how to share the document?
+I have muscle soreness.
+How do I use the elevator?
+I need to rename the file.
+Do you enjoy writing stories?
+The doorbell needs to be cleaned.
+The forecast says there will be dangerous lightning.
+I need help with a lost property report.
+Would you like to join me for a volunteer event?
+Does this pair of socks fit me?
+Have you ever been to Brazil?
+I need help with a gas smell.
+Do you sell a pair of scissors?
+Does a vegetable quesadilla contain peanuts?
+How do I get to the university library?
+When is the next train to the university?
+Do you want to wash the dishes with me?
+When do I need to share the document?
+I've had muscle soreness since yesterday.
+Where can I find the elevator?
+Why can't I rename the file?
+How often do you spend time writing stories?
+Can you help me clean the doorbell?
+Should we expect dangerous lightning tomorrow?
+Where do I submit a lost property report?
+What time should we meet for a volunteer event?
+Can I try on this pair of socks?
+I'd like to visit Brazil.
+Who should I contact about a gas smell?
+I'm looking for a pair of scissors.
+Is a vegetable quesadilla spicy?
+What time does the university library open?
+Does this bus go to the university?
+When should I wash the dishes?
+I haven't had time to share the document.
+What should I do about muscle soreness?
+I need help with the elevator.
+Could you show me how to rename the file?
+I'm interested in writing stories.
+Do you know how to use the doorbell?
+How long will dangerous lightning continue?
+How long does a lost property report take?
+Where should we meet for a volunteer event?
+Do you have this pair of socks in a larger size?
+What is the best time to visit Brazil?
+Where can I report a gas smell?
+Could you show me a pair of scissors?
+Can I get a vegetable quesadilla without onions?
+What time does the university library close?
+How long does it take to get to the university?
+Can you help me wash the dishes?
+Do we need to share the document today?
+Can I get medicine for muscle soreness?
+Could you show me how to use the elevator?
+Is it safe to rename the file?
+I'm getting better at writing stories.
+The doorbell stopped working.
+I'm not used to dangerous lightning.
+Is there a fee for a lost property report?
+I'm looking forward to a volunteer event.
+Is this pair of socks on sale?
+How long should I stay in Brazil?
+Can you help me explain a gas smell?
+Is there a discount on a pair of scissors?
+Could you pack a vegetable quesadilla to go?
+Is the university library open now?
+Is there a direct route to the university?
+I forgot to wash the dishes.
+Let's share the document together.
+Is muscle soreness a common symptom?
+The elevator is making a strange noise.
+I forgot how to rename the file.
+Would you like to try writing stories?
+I need to fix the doorbell.
+Driving is difficult because of dangerous lightning.
+Which documents are required for a lost property report?
+Can we reschedule a volunteer event?
+Can I return this pair of socks?
+What food should I try in Brazil?
+What should I do about a gas smell?
+Can I order a pair of scissors online?
+How much does a vegetable quesadilla cost?
+Can I walk to the university library?
+I'd like to travel to the university.
+I'm planning to wash the dishes tomorrow.
+I'm almost ready to share the document.
+How long will muscle soreness last?
+Please check the elevator in my room.
+It takes too long to rename the file.
+What do you like about writing stories?
+Could you check the doorbell?
+Our plans may change because of dangerous lightning.
+Can I complete a lost property report online?
+Thank you for inviting me to a volunteer event.
+Where was this pair of socks made?
+Is public transportation easy to use in Brazil?
+Is there a form for a gas smell?
+Do you have a pair of scissors in stock?
+Is a vegetable quesadilla available today?
+Is there parking near the university library?
+Which platform is for the train to the university?
+I have enough time to wash the dishes.
+Why do I have to share the document?
+Should I see a doctor for muscle soreness?
+The vending machine isn't working.
+Can you help me move the folder?
+I started writing stories last year.
+Please don't touch the doorbell.
+Please be careful during dangerous lightning.
+Who should I contact about a lost property report?
+How long will a volunteer event last?
+How should I wash this pair of socks?
+What is the weather like in Brazil?
+How long will it take to resolve a gas smell?
+I need to buy a pair of scissors.
+Can you recommend a drink with a vegetable quesadilla?
+I need directions to the university library.
+Can I buy a return ticket to the university?
+Is it okay if I wash the dishes now?
+I need to contact my teacher.
+My main problem is muscle soreness.
+Could someone check the vending machine?
+How do I move the folder?
+My favorite weekend activity is writing stories.
+Is the doorbell safe to use?
+Do I need special clothing for dangerous lightning?
+I have a question about a lost property report.
+Do I need to bring anything to a volunteer event?
+I think this pair of socks looks good.
+Do I need a visa to visit Brazil?
+I need written confirmation of a gas smell.
+Where can I find a bottle of lotion?
+I'd like to order a sushi roll.
+Where is the nearest school office?
+How much is a ticket to the hotel?
+I need to organize my desk today.
+Could you show me how to contact my teacher?
+I have joint pain.
+How do I use the vending machine?
+I need to move the folder.
+Do you enjoy keeping a journal?
+The garage door needs to be cleaned.
+The forecast says there will be coastal flooding.
+I need help with a police report.
+Would you like to join me for a weekend trip?
+Does this long-sleeved shirt fit me?
+Have you ever been to Argentina?
+I need help with a blocked exit.
+Do you sell a bottle of lotion?
+Does a sushi roll contain peanuts?
+How do I get to the school office?
+When is the next train to the hotel?
+Do you want to organize my desk with me?
+When do I need to contact my teacher?
+I've had joint pain since yesterday.
+Where can I find the vending machine?
+Why can't I move the folder?
+How often do you spend time keeping a journal?
+Can you help me clean the garage door?
+Should we expect coastal flooding tomorrow?
+Where do I submit a police report?
+What time should we meet for a weekend trip?
+Can I try on this long-sleeved shirt?
+I'd like to visit Argentina.
+Who should I contact about a blocked exit?
+I'm looking for a bottle of lotion.
+Is a sushi roll spicy?
+What time does the school office open?
+Does this bus go to the hotel?
+When should I organize my desk?
+I haven't had time to contact my teacher.
+What should I do about joint pain?
+I need help with the vending machine.
+Could you show me how to move the folder?
+I'm interested in keeping a journal.
+Do you know how to use the garage door?
+How long will coastal flooding continue?
+How long does a police report take?
+Where should we meet for a weekend trip?
+Do you have this long-sleeved shirt in a larger size?
+What is the best time to visit Argentina?
+Where can I report a blocked exit?
+Could you show me a bottle of lotion?
+Can I get a sushi roll without onions?
+What time does the school office close?
+How long does it take to get to the hotel?
+Can you help me organize my desk?
+Do we need to contact my teacher today?
+Can I get medicine for joint pain?
+Could you show me how to use the vending machine?
+Is it safe to move the folder?
+I'm getting better at keeping a journal.
+The garage door stopped working.
+I'm not used to coastal flooding.
+Is there a fee for a police report?
+I'm looking forward to a weekend trip.
+Is this long-sleeved shirt on sale?
+How long should I stay in Argentina?
+Can you help me explain a blocked exit?
+Is there a discount on a bottle of lotion?
+Could you pack a sushi roll to go?
+Is the school office open now?
+Is there a direct route to the hotel?
+I forgot to organize my desk.
+Let's contact my teacher together.
+Is joint pain a common symptom?
+The vending machine is making a strange noise.
+I forgot how to move the folder.
+Would you like to try keeping a journal?
+I need to fix the garage door.
+Driving is difficult because of coastal flooding.
+Which documents are required for a police report?
+Can we reschedule a weekend trip?
+Can I return this long-sleeved shirt?
+What food should I try in Argentina?
+What should I do about a blocked exit?
+Can I order a bottle of lotion online?
+How much does a sushi roll cost?
+Can I walk to the school office?
+I'd like to travel to the hotel.
+I'm planning to organize my desk tomorrow.
+I'm almost ready to contact my teacher.
+How long will joint pain last?
+Please check the vending machine in my room.
+It takes too long to move the folder.
+What do you like about keeping a journal?
+Could you check the garage door?
+Our plans may change because of coastal flooding.
+Can I complete a police report online?
+Thank you for inviting me to a weekend trip.
+Where was this long-sleeved shirt made?
+Is public transportation easy to use in Argentina?
+Is there a form for a blocked exit?
+Do you have a bottle of lotion in stock?
+Is a sushi roll available today?
+Is there parking near the school office?
+Which platform is for the train to the hotel?
+I have enough time to organize my desk.
+Why do I have to contact my teacher?
+Should I see a doctor for joint pain?
+The ice machine isn't working.
+Can you help me delete the old copy?
+I started keeping a journal last year.
+Please don't touch the garage door.
+Please be careful during coastal flooding.
+Who should I contact about a police report?
+How long will a weekend trip last?
+How should I wash this long-sleeved shirt?
+What is the weather like in Argentina?
+How long will it take to resolve a blocked exit?
+I need to buy a bottle of lotion.
+Can you recommend a drink with a sushi roll?
+I need directions to the school office.
+Can I buy a return ticket to the hotel?
+Is it okay if I organize my desk now?
+I need to meet with my counselor.
+My main problem is joint pain.
+Could someone check the ice machine?
+How do I delete the old copy?
+My favorite weekend activity is keeping a journal.
+Is the garage door safe to use?
+Do I need special clothing for coastal flooding?
+I have a question about a police report.
+Do I need to bring anything to a weekend trip?
+I think this long-sleeved shirt looks good.
+Do I need a visa to visit Argentina?
+I need written confirmation of a blocked exit.
+Where can I find a tube of lip balm?
+I'd like to order a rice bowl.
+Where is the nearest student center?
+How much is a ticket to the train station?
+I need to reply to my messages today.
+Could you show me how to meet with my counselor?
+I have a small rash.
+How do I use the ice machine?
+I need to delete the old copy.
+Do you enjoy gardening?
+The back gate needs to be cleaned.
+The forecast says there will be high water.
+I need help with a name change.
+Would you like to join me for a day at the beach?
+Does this lightweight jacket fit me?
+Have you ever been to Chile?
+I need help with a missing child.
+Do you sell a tube of lip balm?
+Does a rice bowl contain peanuts?
+How do I get to the student center?
+When is the next train to the train station?
+Do you want to reply to my messages with me?
+When do I need to meet with my counselor?
+I've had a small rash since yesterday.
+Where can I find the ice machine?
+Why can't I delete the old copy?
+How often do you spend time gardening?
+Can you help me clean the back gate?
+Should we expect high water tomorrow?
+Where do I submit a name change?
+What time should we meet for a day at the beach?
+Can I try on this lightweight jacket?
+I'd like to visit Chile.
+Who should I contact about a missing child?
+I'm looking for a tube of lip balm.
+Is a rice bowl spicy?
+What time does the student center open?
+Does this bus go to the train station?
+When should I reply to my messages?
+I haven't had time to meet with my counselor.
+What should I do about a small rash?
+I need help with the ice machine.
+Could you show me how to delete the old copy?
+I'm interested in gardening.
+Do you know how to use the back gate?
+How long will high water continue?
+How long does a name change take?
+Where should we meet for a day at the beach?
+Do you have this lightweight jacket in a larger size?
+What is the best time to visit Chile?
+Where can I report a missing child?
+Could you show me a tube of lip balm?
+Can I get a rice bowl without onions?
+What time does the student center close?
+How long does it take to get to the train station?
+Can you help me reply to my messages?
+Do we need to meet with my counselor today?
+Can I get medicine for a small rash?
+Could you show me how to use the ice machine?
+Is it safe to delete the old copy?
+I'm getting better at gardening.
+The back gate stopped working.
+I'm not used to high water.
+Is there a fee for a name change?
+I'm looking forward to a day at the beach.
+Is this lightweight jacket on sale?
+How long should I stay in Chile?
+Can you help me explain a missing child?
+Is there a discount on a tube of lip balm?
+Could you pack a rice bowl to go?
+Is the student center open now?
+Is there a direct route to the train station?
+I forgot to reply to my messages.
+Let's meet with my counselor together.
+Is a small rash a common symptom?
+The ice machine is making a strange noise.
+I forgot how to delete the old copy.
+Would you like to try gardening?
+I need to fix the back gate.
+Driving is difficult because of high water.
+Which documents are required for a name change?
+Can we reschedule a day at the beach?
+Can I return this lightweight jacket?
+What food should I try in Chile?
+What should I do about a missing child?
+Can I order a tube of lip balm online?
+How much does a rice bowl cost?
+Can I walk to the student center?
+I'd like to travel to the train station.
+I'm planning to reply to my messages tomorrow.
+I'm almost ready to meet with my counselor.
+How long will a small rash last?
+Please check the ice machine in my room.
+It takes too long to delete the old copy.
+What do you like about gardening?
+Could you check the back gate?
+Our plans may change because of high water.
+Can I complete a name change online?
+Thank you for inviting me to a day at the beach.
+Where was this lightweight jacket made?
+Is public transportation easy to use in Chile?
+Is there a form for a missing child?
+Do you have a tube of lip balm in stock?
+Is a rice bowl available today?
+Is there parking near the student center?
+Which platform is for the train to the train station?
+I have enough time to reply to my messages.
+Why do I have to meet with my counselor?
+Should I see a doctor for a small rash?
+The washing machine isn't working.
+Can you help me restore the backup?
+I started gardening last year.
+Please don't touch the back gate.
+Please be careful during high water.
+Who should I contact about a name change?
+How long will a day at the beach last?
+How should I wash this lightweight jacket?
+What is the weather like in Chile?
+How long will it take to resolve a missing child?
+I need to buy a tube of lip balm.
+Can you recommend a drink with a rice bowl?
+I need directions to the student center.
+Can I buy a return ticket to the train station?
+Is it okay if I reply to my messages now?
+I need to register for a class.
+My main problem is a small rash.
+Could someone check the washing machine?
+How do I restore the backup?
+My favorite weekend activity is gardening.
+Is the back gate safe to use?
+Do I need special clothing for high water?
+I have a question about a name change.
+Do I need to bring anything to a day at the beach?
+I think this lightweight jacket looks good.
+Do I need a visa to visit Chile?
+I need written confirmation of a missing child.
+Where can I find a hairbrush?
+I'd like to order a noodle bowl.
+Where is the nearest dining hall?
+How much is a ticket to the bus terminal?
+I need to visit the library today.
+Could you show me how to register for a class?
+I have dry skin.
+How do I use the washing machine?
+I need to restore the backup.
+Do you enjoy baking bread?
+The dining table needs to be cleaned.
+The forecast says there will be a winter storm.
+I need help with an address update.
+Would you like to join me for a hike?
+Does this pair of hiking boots fit me?
+Have you ever been to Peru?
+I need help with a lost pet.
+Do you sell a hairbrush?
+Does a noodle bowl contain peanuts?
+How do I get to the dining hall?
+When is the next train to the bus terminal?
+Do you want to visit the library with me?
+When do I need to register for a class?
+I've had dry skin since yesterday.
+Where can I find the washing machine?
+Why can't I restore the backup?
+How often do you spend time baking bread?
+Can you help me clean the dining table?
+Should we expect a winter storm tomorrow?
+Where do I submit an address update?
+What time should we meet for a hike?
+Can I try on this pair of hiking boots?
+I'd like to visit Peru.
+Who should I contact about a lost pet?
+I'm looking for a hairbrush.
+Is a noodle bowl spicy?
+What time does the dining hall open?
+Does this bus go to the bus terminal?
+When should I visit the library?
+I haven't had time to register for a class.
+What should I do about dry skin?
+I need help with the washing machine.
+Could you show me how to restore the backup?
+I'm interested in baking bread.
+Do you know how to use the dining table?
+How long will a winter storm continue?
+How long does an address update take?
+Where should we meet for a hike?
+Do you have this pair of hiking boots in a larger size?
+What is the best time to visit Peru?
+Where can I report a lost pet?
+Could you show me a hairbrush?
+Can I get a noodle bowl without onions?
+What time does the dining hall close?
+How long does it take to get to the bus terminal?
+Can you help me visit the library?
+Do we need to register for a class today?
+Can I get medicine for dry skin?
+Could you show me how to use the washing machine?
+Is it safe to restore the backup?
+I'm getting better at baking bread.
+The dining table stopped working.
+I'm not used to a winter storm.
+Is there a fee for an address update?
+I'm looking forward to a hike.
+Is this pair of hiking boots on sale?
+How long should I stay in Peru?
+Can you help me explain a lost pet?
+Is there a discount on a hairbrush?
+Could you pack a noodle bowl to go?
+Is the dining hall open now?
+Is there a direct route to the bus terminal?
+I forgot to visit the library.
+Let's register for a class together.
+Is dry skin a common symptom?
+The washing machine is making a strange noise.
+I forgot how to restore the backup.
+Would you like to try baking bread?
+I need to fix the dining table.
+Driving is difficult because of a winter storm.
+Which documents are required for an address update?
+Can we reschedule a hike?
+Can I return this pair of hiking boots?
+What food should I try in Peru?
+What should I do about a lost pet?
+Can I order a hairbrush online?
+How much does a noodle bowl cost?
+Can I walk to the dining hall?
+I'd like to travel to the bus terminal.
+I'm planning to visit the library tomorrow.
+I'm almost ready to register for a class.
+How long will dry skin last?
+Please check the washing machine in my room.
+It takes too long to restore the backup.
+What do you like about baking bread?
+Could you check the dining table?
+Our plans may change because of a winter storm.
+Can I complete an address update online?
+Thank you for inviting me to a hike.
+Where was this pair of hiking boots made?
+Is public transportation easy to use in Peru?
+Is there a form for a lost pet?
+Do you have a hairbrush in stock?
+Is a noodle bowl available today?
+Is there parking near the dining hall?
+Which platform is for the train to the bus terminal?
+I have enough time to visit the library.
+Why do I have to register for a class?
+Should I see a doctor for dry skin?
+The clothes dryer isn't working.
+Can you help me charge my laptop?
+I started baking bread last year.
+Please don't touch the dining table.
+Please be careful during a winter storm.
+Who should I contact about an address update?
+How long will a hike last?
+How should I wash this pair of hiking boots?
+What is the weather like in Peru?
+How long will it take to resolve a lost pet?
+I need to buy a hairbrush.
+Can you recommend a drink with a noodle bowl?
+I need directions to the dining hall.
+Can I buy a return ticket to the bus terminal?
+Is it okay if I visit the library now?
+I need to change my schedule.
+My main problem is dry skin.
+Could someone check the clothes dryer?
+How do I charge my laptop?
+My favorite weekend activity is baking bread.
+Is the dining table safe to use?
+Do I need special clothing for a winter storm?
+I have a question about an address update.
+Do I need to bring anything to a hike?
+I think this pair of hiking boots looks good.
+Do I need a visa to visit Peru?
+I need written confirmation of a lost pet.
+Where can I find a comb?
+I'd like to order a chicken kebab.
+Where is the nearest dormitory office?
+How much is a ticket to the shopping district?
+I need to practice English today.
+Could you show me how to change my schedule?
+I have a minor cut.
+How do I use the clothes dryer?
+I need to charge my laptop.
+Do you enjoy riding a bicycle?
+The kitchen counter needs to be cleaned.
+The forecast says there will be a tropical storm.
+I need help with a password reset.
+Would you like to join me for a bike ride?
+Does this pair of sandals fit me?
+Have you ever been to the United Kingdom?
+I need help with a broken streetlight.
+Do you sell a comb?
+Does a chicken kebab contain peanuts?
+How do I get to the dormitory office?
+When is the next train to the shopping district?
+Do you want to practice English with me?
+When do I need to change my schedule?
+I've had a minor cut since yesterday.
+Where can I find the clothes dryer?
+Why can't I charge my laptop?
+How often do you spend time riding a bicycle?
+Can you help me clean the kitchen counter?
+Should we expect a tropical storm tomorrow?
+Where do I submit a password reset?
+What time should we meet for a bike ride?
+Can I try on this pair of sandals?
+I'd like to visit the United Kingdom.
+Who should I contact about a broken streetlight?
+I'm looking for a comb.
+Is a chicken kebab spicy?
+What time does the dormitory office open?
+Does this bus go to the shopping district?
+When should I practice English?
+I haven't had time to change my schedule.
+What should I do about a minor cut?
+I need help with the clothes dryer.
+Could you show me how to charge my laptop?
+I'm interested in riding a bicycle.
+Do you know how to use the kitchen counter?
+How long will a tropical storm continue?
+How long does a password reset take?
+Where should we meet for a bike ride?
+Do you have this pair of sandals in a larger size?
+What is the best time to visit the United Kingdom?
+Where can I report a broken streetlight?
+Could you show me a comb?
+Can I get a chicken kebab without onions?
+What time does the dormitory office close?
+How long does it take to get to the shopping district?
+Can you help me practice English?
+Do we need to change my schedule today?
+Can I get medicine for a minor cut?
+Could you show me how to use the clothes dryer?
+Is it safe to charge my laptop?
+I'm getting better at riding a bicycle.
+The kitchen counter stopped working.
+I'm not used to a tropical storm.
+Is there a fee for a password reset?
+I'm looking forward to a bike ride.
+Is this pair of sandals on sale?
+How long should I stay in the United Kingdom?
+Can you help me explain a broken streetlight?
+Is there a discount on a comb?
+Could you pack a chicken kebab to go?
+Is the dormitory office open now?
+Is there a direct route to the shopping district?
+I forgot to practice English.
+Let's change my schedule together.
+Is a minor cut a common symptom?
+The clothes dryer is making a strange noise.
+I forgot how to charge my laptop.
+Would you like to try riding a bicycle?
+I need to fix the kitchen counter.
+Driving is difficult because of a tropical storm.
+Which documents are required for a password reset?
+Can we reschedule a bike ride?
+Can I return this pair of sandals?
+What food should I try in the United Kingdom?
+What should I do about a broken streetlight?
+Can I order a comb online?
+How much does a chicken kebab cost?
+Can I walk to the dormitory office?
+I'd like to travel to the shopping district.
+I'm planning to practice English tomorrow.
+I'm almost ready to change my schedule.
+How long will a minor cut last?
+Please check the clothes dryer in my room.
+It takes too long to charge my laptop.
+What do you like about riding a bicycle?
+Could you check the kitchen counter?
+Our plans may change because of a tropical storm.
+Can I complete a password reset online?
+Thank you for inviting me to a bike ride.
+Where was this pair of sandals made?
+Is public transportation easy to use in the United Kingdom?
+Is there a form for a broken streetlight?
+Do you have a comb in stock?
+Is a chicken kebab available today?
+Is there parking near the dormitory office?
+Which platform is for the train to the shopping district?
+I have enough time to practice English.
+Why do I have to change my schedule?
+Should I see a doctor for a minor cut?
+The iron isn't working.
+Can you help me connect the charger?
+I started riding a bicycle last year.
+Please don't touch the kitchen counter.
+Please be careful during a tropical storm.
+Who should I contact about a password reset?
+How long will a bike ride last?
+How should I wash this pair of sandals?
+What is the weather like in the United Kingdom?
+How long will it take to resolve a broken streetlight?
+I need to buy a comb.
+Can you recommend a drink with a chicken kebab?
+I need directions to the dormitory office.
+Can I buy a return ticket to the shopping district?
+Is it okay if I practice English now?
+I need to borrow a textbook.
+My main problem is a minor cut.
+Could someone check the iron?
+How do I connect the charger?
+My favorite weekend activity is riding a bicycle.
+Is the kitchen counter safe to use?
+Do I need special clothing for a tropical storm?
+I have a question about a password reset.
+Do I need to bring anything to a bike ride?
+I think this pair of sandals looks good.
+Do I need a visa to visit the United Kingdom?
+I need written confirmation of a broken streetlight.
+Where can I find a first-aid kit?
+I'd like to order a vegetable kebab.
+Where is the nearest campus bookstore?
+How much is a ticket to the beach?
+I need to read a chapter today.
+Could you show me how to borrow a textbook?
+I have a small burn.
+How do I use the iron?
+I need to connect the charger.
+Do you enjoy running?
+The bookshelf needs to be cleaned.
+The forecast says there will be a hurricane warning.
+I need help with an account closure.
+Would you like to join me for a shopping trip?
+Does this swimsuit fit me?
+Have you ever been to Ireland?
+I need help with a dangerous sidewalk.
+Do you sell a first-aid kit?
+Does a vegetable kebab contain peanuts?
+How do I get to the campus bookstore?
+When is the next train to the beach?
+Do you want to read a chapter with me?
+When do I need to borrow a textbook?
+I've had a small burn since yesterday.
+Where can I find the iron?
+Why can't I connect the charger?
+How often do you spend time running?
+Can you help me clean the bookshelf?
+Should we expect a hurricane warning tomorrow?
+Where do I submit an account closure?
+What time should we meet for a shopping trip?
+Can I try on this swimsuit?
+I'd like to visit Ireland.
+Who should I contact about a dangerous sidewalk?
+I'm looking for a first-aid kit.
+Is a vegetable kebab spicy?
+What time does the campus bookstore open?
+Does this bus go to the beach?
+When should I read a chapter?
+I haven't had time to borrow a textbook.
+What should I do about a small burn?
+I need help with the iron.
+Could you show me how to connect the charger?
+I'm interested in running.
+Do you know how to use the bookshelf?
+How long will a hurricane warning continue?
+How long does an account closure take?
+Where should we meet for a shopping trip?
+Do you have this swimsuit in a larger size?
+What is the best time to visit Ireland?
+Where can I report a dangerous sidewalk?
+Could you show me a first-aid kit?
+Can I get a vegetable kebab without onions?
+What time does the campus bookstore close?
+How long does it take to get to the beach?
+Can you help me read a chapter?
+Do we need to borrow a textbook today?
+Can I get medicine for a small burn?
+Could you show me how to use the iron?
+Is it safe to connect the charger?
+I'm getting better at running.
+The bookshelf stopped working.
+I'm not used to a hurricane warning.
+Is there a fee for an account closure?
+I'm looking forward to a shopping trip.
+Is this swimsuit on sale?
+How long should I stay in Ireland?
+Can you help me explain a dangerous sidewalk?
+Is there a discount on a first-aid kit?
+Could you pack a vegetable kebab to go?
+Is the campus bookstore open now?
+Is there a direct route to the beach?
+I forgot to read a chapter.
+Let's borrow a textbook together.
+Is a small burn a common symptom?
+The iron is making a strange noise.
+I forgot how to connect the charger.
+Would you like to try running?
+I need to fix the bookshelf.
+Driving is difficult because of a hurricane warning.
+Which documents are required for an account closure?
+Can we reschedule a shopping trip?
+Can I return this swimsuit?
+What food should I try in Ireland?
+What should I do about a dangerous sidewalk?
+Can I order a first-aid kit online?
+How much does a vegetable kebab cost?
+Can I walk to the campus bookstore?
+I'd like to travel to the beach.
+I'm planning to read a chapter tomorrow.
+I'm almost ready to borrow a textbook.
+How long will a small burn last?
+Please check the iron in my room.
+It takes too long to connect the charger.
+What do you like about running?
+Could you check the bookshelf?
+Our plans may change because of a hurricane warning.
+Can I complete an account closure online?
+Thank you for inviting me to a shopping trip.
+Where was this swimsuit made?
+Is public transportation easy to use in Ireland?
+Is there a form for a dangerous sidewalk?
+Do you have a first-aid kit in stock?
+Is a vegetable kebab available today?
+Is there parking near the campus bookstore?
+Which platform is for the train to the beach?
+I have enough time to read a chapter.
+Why do I have to borrow a textbook?
+Should I see a doctor for a small burn?
+The ironing board isn't working.
+Can you help me find the settings?
+I started running last year.
+Please don't touch the bookshelf.
+Please be careful during a hurricane warning.
+Who should I contact about an account closure?
+How long will a shopping trip last?
+How should I wash this swimsuit?
+What is the weather like in Ireland?
+How long will it take to resolve a dangerous sidewalk?
+I need to buy a first-aid kit.
+Can you recommend a drink with a vegetable kebab?
+I need directions to the campus bookstore.
+Can I buy a return ticket to the beach?
+Is it okay if I read a chapter now?
+I need to return this equipment.
+My main problem is a small burn.
+Could someone check the ironing board?
+How do I find the settings?
+My favorite weekend activity is running.
+Is the bookshelf safe to use?
+Do I need special clothing for a hurricane warning?
+I have a question about an account closure.
+Do I need to bring anything to a shopping trip?
+I think this swimsuit looks good.
+Do I need a visa to visit Ireland?
+I need written confirmation of a dangerous sidewalk.
+Where can I find a pack of face masks?
+I'd like to order lentil soup.
+Where is the nearest computer lab?
+How much is a ticket to the museum?
+I need to write in my journal today.
+Could you show me how to return this equipment?
+I have a swollen finger.
+How do I use the ironing board?
+I need to find the settings.
+Do you enjoy lifting weights?
+The desk chair needs to be cleaned.
+The forecast says there will be a tornado warning.
+I need help with a credit card application.
+Would you like to join me for lunch?
+Does this pair of pajamas fit me?
+Have you ever been to Spain?
+I need help with a fallen tree.
+Do you sell a pack of face masks?
+Does lentil soup contain peanuts?
+How do I get to the computer lab?
+When is the next train to the museum?
+Do you want to write in my journal with me?
+When do I need to return this equipment?
+I've had a swollen finger since yesterday.
+Where can I find the ironing board?
+Why can't I find the settings?
+How often do you spend time lifting weights?
+Can you help me clean the desk chair?
+Should we expect a tornado warning tomorrow?
+Where do I submit a credit card application?
+What time should we meet for lunch?
+Can I try on this pair of pajamas?
+I'd like to visit Spain.
+Who should I contact about a fallen tree?
+I'm looking for a pack of face masks.
+Is lentil soup spicy?
+What time does the computer lab open?
+Does this bus go to the museum?
+When should I write in my journal?
+I haven't had time to return this equipment.
+What should I do about a swollen finger?
+I need help with the ironing board.
+Could you show me how to find the settings?
+I'm interested in lifting weights.
+Do you know how to use the desk chair?
+How long will a tornado warning continue?
+How long does a credit card application take?
+Where should we meet for lunch?
+Do you have this pair of pajamas in a larger size?
+What is the best time to visit Spain?
+Where can I report a fallen tree?
+Could you show me a pack of face masks?
+Can I get lentil soup without onions?
+What time does the computer lab close?
+How long does it take to get to the museum?
+Can you help me write in my journal?
+Do we need to return this equipment today?
+Can I get medicine for a swollen finger?
+Could you show me how to use the ironing board?
+Is it safe to find the settings?
+I'm getting better at lifting weights.
+The desk chair stopped working.
+I'm not used to a tornado warning.
+Is there a fee for a credit card application?
+I'm looking forward to lunch.
+Is this pair of pajamas on sale?
+How long should I stay in Spain?
+Can you help me explain a fallen tree?
+Is there a discount on a pack of face masks?
+Could you pack lentil soup to go?
+Is the computer lab open now?
+Is there a direct route to the museum?
+I forgot to write in my journal.
+Let's return this equipment together.
+Is a swollen finger a common symptom?
+The ironing board is making a strange noise.
+I forgot how to find the settings.
+Would you like to try lifting weights?
+I need to fix the desk chair.
+Driving is difficult because of a tornado warning.
+Which documents are required for a credit card application?
+Can we reschedule lunch?
+Can I return this pair of pajamas?
+What food should I try in Spain?
+What should I do about a fallen tree?
+Can I order a pack of face masks online?
+How much does lentil soup cost?
+Can I walk to the computer lab?
+I'd like to travel to the museum.
+I'm planning to write in my journal tomorrow.
+I'm almost ready to return this equipment.
+How long will a swollen finger last?
+Please check the ironing board in my room.
+It takes too long to find the settings.
+What do you like about lifting weights?
+Could you check the desk chair?
+Our plans may change because of a tornado warning.
+Can I complete a credit card application online?
+Thank you for inviting me to lunch.
+Where was this pair of pajamas made?
+Is public transportation easy to use in Spain?
+Is there a form for a fallen tree?
+Do you have a pack of face masks in stock?
+Is lentil soup available today?
+Is there parking near the computer lab?
+Which platform is for the train to the museum?
+I have enough time to write in my journal.
+Why do I have to return this equipment?
+Should I see a doctor for a swollen finger?
+The alarm clock isn't working.
+Can you help me increase the brightness?
+I started lifting weights last year.
+Please don't touch the desk chair.
+Please be careful during a tornado warning.
+Who should I contact about a credit card application?
+How long will lunch last?
+How should I wash this pair of pajamas?
+What is the weather like in Spain?
+How long will it take to resolve a fallen tree?
+I need to buy a pack of face masks.
+Can you recommend a drink with lentil soup?
+I need directions to the computer lab.
+Can I buy a return ticket to the museum?
+Is it okay if I write in my journal now?
+I need to reserve a study room.
+My main problem is a swollen finger.
+Could someone check the alarm clock?
+How do I increase the brightness?
+My favorite weekend activity is lifting weights.
+Is the desk chair safe to use?
+Do I need special clothing for a tornado warning?
+I have a question about a credit card application.
+Do I need to bring anything to lunch?
+I think this pair of pajamas looks good.
+Do I need a visa to visit Spain?
+I need written confirmation of a fallen tree.
+Where can I find a box of cereal?
+I'd like to order pumpkin soup.
+Where is the nearest study center?
+How much is a ticket to the convention center?
+I need to prepare my things today.
+Could you show me how to reserve a study room?
+I have a bruised knee.
+How do I use the alarm clock?
+I need to increase the brightness.
+Do you enjoy doing yoga?
+The floor lamp needs to be cleaned.
+The forecast says there will be poor air quality.
+I need help with a debit card replacement.
+Would you like to join me for breakfast?
+Does this necktie fit me?
+Have you ever been to Portugal?
+I need help with a flooded road.
+Do you sell a box of cereal?
+Does pumpkin soup contain peanuts?
+How do I get to the study center?
+When is the next train to the convention center?
+Do you want to prepare my things with me?
+When do I need to reserve a study room?
+I've had a bruised knee since yesterday.
+Where can I find the alarm clock?
+Why can't I increase the brightness?
+How often do you spend time doing yoga?
+Can you help me clean the floor lamp?
+Should we expect poor air quality tomorrow?
+Where do I submit a debit card replacement?
+What time should we meet for breakfast?
+Can I try on this necktie?
+I'd like to visit Portugal.
+Who should I contact about a flooded road?
+I'm looking for a box of cereal.
+Is pumpkin soup spicy?
+What time does the study center open?
+Does this bus go to the convention center?
+When should I prepare my things?
+I haven't had time to reserve a study room.
+What should I do about a bruised knee?
+I need help with the alarm clock.
+Could you show me how to increase the brightness?
+I'm interested in doing yoga.
+Do you know how to use the floor lamp?
+How long will poor air quality continue?
+How long does a debit card replacement take?
+Where should we meet for breakfast?
+Do you have this necktie in a larger size?
+What is the best time to visit Portugal?
+Where can I report a flooded road?
+Could you show me a box of cereal?
+Can I get pumpkin soup without onions?
+What time does the study center close?
+How long does it take to get to the convention center?
+Can you help me prepare my things?
+Do we need to reserve a study room today?
+Can I get medicine for a bruised knee?
+Could you show me how to use the alarm clock?
+Is it safe to increase the brightness?
+I'm getting better at doing yoga.
+The floor lamp stopped working.
+I'm not used to poor air quality.
+Is there a fee for a debit card replacement?
+I'm looking forward to breakfast.
+Is this necktie on sale?
+How long should I stay in Portugal?
+Can you help me explain a flooded road?
+Is there a discount on a box of cereal?
+Could you pack pumpkin soup to go?
+Is the study center open now?
+Is there a direct route to the convention center?
+I forgot to prepare my things.
+Let's reserve a study room together.
+Is a bruised knee a common symptom?
+The alarm clock is making a strange noise.
+I forgot how to increase the brightness.
+Would you like to try doing yoga?
+I need to fix the floor lamp.
+Driving is difficult because of poor air quality.
+Which documents are required for a debit card replacement?
+Can we reschedule breakfast?
+Can I return this necktie?
+What food should I try in Portugal?
+What should I do about a flooded road?
+Can I order a box of cereal online?
+How much does pumpkin soup cost?
+Can I walk to the study center?
+I'd like to travel to the convention center.
+I'm planning to prepare my things tomorrow.
+I'm almost ready to reserve a study room.
+How long will a bruised knee last?
+Please check the alarm clock in my room.
+It takes too long to increase the brightness.
+What do you like about doing yoga?
+Could you check the floor lamp?
+Our plans may change because of poor air quality.
+Can I complete a debit card replacement online?
+Thank you for inviting me to breakfast.
+Where was this necktie made?
+Is public transportation easy to use in Portugal?
+Is there a form for a flooded road?
+Do you have a box of cereal in stock?
+Is pumpkin soup available today?
+Is there parking near the study center?
+Which platform is for the train to the convention center?
+I have enough time to prepare my things.
+Why do I have to reserve a study room?
+Should I see a doctor for a bruised knee?
+The desk chair isn't working.
+Can you help me lower the volume?
+I started doing yoga last year.
+Please don't touch the floor lamp.
+Please be careful during poor air quality.
+Who should I contact about a debit card replacement?
+How long will breakfast last?
+How should I wash this necktie?
+What is the weather like in Portugal?
+How long will it take to resolve a flooded road?
+I need to buy a box of cereal.
+Can you recommend a drink with pumpkin soup?
+I need directions to the study center.
+Can I buy a return ticket to the convention center?
+Is it okay if I prepare my things now?
+I need to find a research source.
+My main problem is a bruised knee.
+Could someone check the desk chair?
+How do I lower the volume?
+My favorite weekend activity is doing yoga.
+Is the floor lamp safe to use?
+Do I need special clothing for poor air quality?
+I have a question about a debit card replacement.
+Do I need to bring anything to breakfast?
+I think this necktie looks good.
+Do I need a visa to visit Portugal?
+I need written confirmation of a flooded road.
+Where can I find a bag of rice?
+I'd like to order seafood pasta.
+Where is the nearest language center?
+How much is a ticket to the national park?
+I need to choose my clothes today.
+Could you show me how to find a research source?
+I have a twisted ankle.
+How do I use the desk chair?
+I need to lower the volume.
+Do you enjoy playing tennis?
+The electric fan needs to be cleaned.
+The forecast says there will be heavy pollen.
+I need help with a scholarship application.
+Would you like to join me for an afternoon snack?
+Does this blazer fit me?
+Have you ever been to Italy?
+I need help with a closed bridge.
+Do you sell a bag of rice?
+Does seafood pasta contain peanuts?
+How do I get to the language center?
+When is the next train to the national park?
+Do you want to choose my clothes with me?
+When do I need to find a research source?
+I've had a twisted ankle since yesterday.
+Where can I find the desk chair?
+Why can't I lower the volume?
+How often do you spend time playing tennis?
+Can you help me clean the electric fan?
+Should we expect heavy pollen tomorrow?
+Where do I submit a scholarship application?
+What time should we meet for an afternoon snack?
+Can I try on this blazer?
+I'd like to visit Italy.
+Who should I contact about a closed bridge?
+I'm looking for a bag of rice.
+Is seafood pasta spicy?
+What time does the language center open?
+Does this bus go to the national park?
+When should I choose my clothes?
+I haven't had time to find a research source.
+What should I do about a twisted ankle?
+I need help with the desk chair.
+Could you show me how to lower the volume?
+I'm interested in playing tennis.
+Do you know how to use the electric fan?
+How long will heavy pollen continue?
+How long does a scholarship application take?
+Where should we meet for an afternoon snack?
+Do you have this blazer in a larger size?
+What is the best time to visit Italy?
+Where can I report a closed bridge?
+Could you show me a bag of rice?
+Can I get seafood pasta without onions?
+What time does the language center close?
+How long does it take to get to the national park?
+Can you help me choose my clothes?
+Do we need to find a research source today?
+Can I get medicine for a twisted ankle?
+Could you show me how to use the desk chair?
+Is it safe to lower the volume?
+I'm getting better at playing tennis.
+The electric fan stopped working.
+I'm not used to heavy pollen.
+Is there a fee for a scholarship application?
+I'm looking forward to an afternoon snack.
+Is this blazer on sale?
+How long should I stay in Italy?
+Can you help me explain a closed bridge?
+Is there a discount on a bag of rice?
+Could you pack seafood pasta to go?
+Is the language center open now?
+Is there a direct route to the national park?
+I forgot to choose my clothes.
+Let's find a research source together.
+Is a twisted ankle a common symptom?
+The desk chair is making a strange noise.
+I forgot how to lower the volume.
+Would you like to try playing tennis?
+I need to fix the electric fan.
+Driving is difficult because of heavy pollen.
+Which documents are required for a scholarship application?
+Can we reschedule an afternoon snack?
+Can I return this blazer?
+What food should I try in Italy?
+What should I do about a closed bridge?
+Can I order a bag of rice online?
+How much does seafood pasta cost?
+Can I walk to the language center?
+I'd like to travel to the national park.
+I'm planning to choose my clothes tomorrow.
+I'm almost ready to find a research source.
+How long will a twisted ankle last?
+Please check the desk chair in my room.
+It takes too long to lower the volume.
+What do you like about playing tennis?
+Could you check the electric fan?
+Our plans may change because of heavy pollen.
+Can I complete a scholarship application online?
+Thank you for inviting me to an afternoon snack.
+Where was this blazer made?
+Is public transportation easy to use in Italy?
+Is there a form for a closed bridge?
+Do you have a bag of rice in stock?
+Is seafood pasta available today?
+Is there parking near the language center?
+Which platform is for the train to the national park?
+I have enough time to choose my clothes.
+Why do I have to find a research source?
+Should I see a doctor for a twisted ankle?
+The ceiling light isn't working.
+Can you help me take a screenshot?
+I started playing tennis last year.
+Please don't touch the electric fan.
+Please be careful during heavy pollen.
+Who should I contact about a scholarship application?
+How long will an afternoon snack last?
+How should I wash this blazer?
+What is the weather like in Italy?
+How long will it take to resolve a closed bridge?
+I need to buy a bag of rice.
+Can you recommend a drink with seafood pasta?
+I need directions to the language center.
+Can I buy a return ticket to the national park?
+Is it okay if I choose my clothes now?
+I need to write a bibliography.
+My main problem is a twisted ankle.
+Could someone check the ceiling light?
+How do I take a screenshot?
+My favorite weekend activity is playing tennis.
+Is the electric fan safe to use?
+Do I need special clothing for heavy pollen?
+I have a question about a scholarship application.
+Do I need to bring anything to an afternoon snack?
+I think this blazer looks good.
+Do I need a visa to visit Italy?
+I need written confirmation of a closed bridge.
+Where can I find a carton of eggs?
+I'd like to order barbecue chicken.
+Where is the nearest international office?
+How much is a ticket to the stadium?
+I need to fill my water bottle today.
+Could you show me how to write a bibliography?
+I have foot pain.
+How do I use the ceiling light?
+I need to take a screenshot.
+Do you enjoy playing badminton?
+The air conditioner needs to be cleaned.
+The forecast says there will be dry weather.
+I need help with a job application.
+Would you like to join me for a video call?
+Does this pair of sweatpants fit me?
+Have you ever been to Germany?
+I need help with a train delay.
+Do you sell a carton of eggs?
+Does barbecue chicken contain peanuts?
+How do I get to the international office?
+When is the next train to the stadium?
+Do you want to fill my water bottle with me?
+When do I need to write a bibliography?
+I've had foot pain since yesterday.
+Where can I find the ceiling light?
+Why can't I take a screenshot?
+How often do you spend time playing badminton?
+Can you help me clean the air conditioner?
+Should we expect dry weather tomorrow?
+Where do I submit a job application?
+What time should we meet for a video call?
+Can I try on this pair of sweatpants?
+I'd like to visit Germany.
+Who should I contact about a train delay?
+I'm looking for a carton of eggs.
+Is barbecue chicken spicy?
+What time does the international office open?
+Does this bus go to the stadium?
+When should I fill my water bottle?
+I haven't had time to write a bibliography.
+What should I do about foot pain?
+I need help with the ceiling light.
+Could you show me how to take a screenshot?
+I'm interested in playing badminton.
+Do you know how to use the air conditioner?
+How long will dry weather continue?
+How long does a job application take?
+Where should we meet for a video call?
+Do you have this pair of sweatpants in a larger size?
+What is the best time to visit Germany?
+Where can I report a train delay?
+Could you show me a carton of eggs?
+Can I get barbecue chicken without onions?
+What time does the international office close?
+How long does it take to get to the stadium?
+Can you help me fill my water bottle?
+Do we need to write a bibliography today?
+Can I get medicine for foot pain?
+Could you show me how to use the ceiling light?
+Is it safe to take a screenshot?
+I'm getting better at playing badminton.
+The air conditioner stopped working.
+I'm not used to dry weather.
+Is there a fee for a job application?
+I'm looking forward to a video call.
+Is this pair of sweatpants on sale?
+How long should I stay in Germany?
+Can you help me explain a train delay?
+Is there a discount on a carton of eggs?
+Could you pack barbecue chicken to go?
+Is the international office open now?
+Is there a direct route to the stadium?
+I forgot to fill my water bottle.
+Let's write a bibliography together.
+Is foot pain a common symptom?
+The ceiling light is making a strange noise.
+I forgot how to take a screenshot.
+Would you like to try playing badminton?
+I need to fix the air conditioner.
+Driving is difficult because of dry weather.
+Which documents are required for a job application?
+Can we reschedule a video call?
+Can I return this pair of sweatpants?
+What food should I try in Germany?
+What should I do about a train delay?
+Can I order a carton of eggs online?
+How much does barbecue chicken cost?
+Can I walk to the international office?
+I'd like to travel to the stadium.
+I'm planning to fill my water bottle tomorrow.
+I'm almost ready to write a bibliography.
+How long will foot pain last?
+Please check the ceiling light in my room.
+It takes too long to take a screenshot.
+What do you like about playing badminton?
+Could you check the air conditioner?
+Our plans may change because of dry weather.
+Can I complete a job application online?
+Thank you for inviting me to a video call.
+Where was this pair of sweatpants made?
+Is public transportation easy to use in Germany?
+Is there a form for a train delay?
+Do you have a carton of eggs in stock?
+Is barbecue chicken available today?
+Is there parking near the international office?
+Which platform is for the train to the stadium?
+I have enough time to fill my water bottle.
+Why do I have to write a bibliography?
+Should I see a doctor for foot pain?
+The smoke detector isn't working.
+Can you help me record the screen?
+I started playing badminton last year.
+Please don't touch the air conditioner.
+Please be careful during dry weather.
+Who should I contact about a job application?
+How long will a video call last?
+How should I wash this pair of sweatpants?
+What is the weather like in Germany?
+How long will it take to resolve a train delay?
+I need to buy a carton of eggs.
+Can you recommend a drink with barbecue chicken?
+I need directions to the international office.
+Can I buy a return ticket to the stadium?
+Is it okay if I fill my water bottle now?
+I need to collect the data.
+My main problem is foot pain.
+Could someone check the smoke detector?
+How do I record the screen?
+My favorite weekend activity is playing badminton.
+Is the air conditioner safe to use?
+Do I need special clothing for dry weather?
+I have a question about a job application.
+Do I need to bring anything to a video call?
+I think this pair of sweatpants looks good.
+Do I need a visa to visit Germany?
+I need written confirmation of a train delay.
+Where can I find a loaf of bread?
+I'd like to order roasted turkey.
+Where is the nearest financial aid office?
+How much is a ticket to the concert venue?
+I need to take my medicine today.
+Could you show me how to collect the data?
+I have shoulder pain.
+How do I use the smoke detector?
+I need to record the screen.
+Do you enjoy playing soccer?
+The heater needs to be cleaned.
+The forecast says there will be a drought.
+I need help with a background check.
+Would you like to join me for a family gathering?
+Does this fleece jacket fit me?
+Have you ever been to Switzerland?
+I need help with a bus cancellation.
+Do you sell a loaf of bread?
+Does roasted turkey contain peanuts?
+How do I get to the financial aid office?
+When is the next train to the concert venue?
+Do you want to take my medicine with me?
+When do I need to collect the data?
+I've had shoulder pain since yesterday.
+Where can I find the smoke detector?
+Why can't I record the screen?
+How often do you spend time playing soccer?
+Can you help me clean the heater?
+Should we expect a drought tomorrow?
+Where do I submit a background check?
+What time should we meet for a family gathering?
+Can I try on this fleece jacket?
+I'd like to visit Switzerland.
+Who should I contact about a bus cancellation?
+I'm looking for a loaf of bread.
+Is roasted turkey spicy?
+What time does the financial aid office open?
+Does this bus go to the concert venue?
+When should I take my medicine?
+I haven't had time to collect the data.
+What should I do about shoulder pain?
+I need help with the smoke detector.
+Could you show me how to record the screen?
+I'm interested in playing soccer.
+Do you know how to use the heater?
+How long will a drought continue?
+How long does a background check take?
+Where should we meet for a family gathering?
+Do you have this fleece jacket in a larger size?
+What is the best time to visit Switzerland?
+Where can I report a bus cancellation?
+Could you show me a loaf of bread?
+Can I get roasted turkey without onions?
+What time does the financial aid office close?
+How long does it take to get to the concert venue?
+Can you help me take my medicine?
