@@ -4,7 +4,7 @@ A desktop application designed to help English learners improve their speaking c
 
 The game displays an English sentence, listens as the player reads it aloud, and uses speech recognition to compare what was heard with the original sentence. Players receive immediate feedback and can track their progress over time.
 
-Created by **Memory[Laine](@128Cores)**.
+Created by **MemoryLaine(@128Cores)**.
 
 ## Features
 
